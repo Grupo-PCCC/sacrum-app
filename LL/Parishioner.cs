@@ -266,14 +266,42 @@ namespace LL
                     reg.Name = (string)rdr["Name"];
                     reg.Surname = (string)rdr["Surname"];
                     reg.Documento = (string)rdr["Documento"];
-                    reg.BirthDate = (DateTime)rdr["BirthDate"];
+                    if (rdr["BirthDate"] is DBNull)
+                    {
+                        reg.BirthDate = null;
+                    }
+                    else
+                    {
+                        reg.BirthDate = Convert.ToDateTime(rdr["BirthDate"]);
+                    }
                     reg.Telephone = Convert.ToString(rdr["Telephone"] is DBNull ? "" : rdr["Telephone"]);
                     reg.Address = Convert.ToString(rdr["Address"] is DBNull ? "" : rdr["Address"]);
                     reg.Mail = Convert.ToString(rdr["Mail"] is DBNull ? "" : rdr["Mail"]);
-                    reg.Observation = (string)rdr["Observation"];
-                    reg._parishionerData.IdTel = (int)rdr["IdTel"];
-                    reg._parishionerData.IdAddress = (int)rdr["IdAddress"];
-                    reg._parishionerData.IdMail = (int)rdr["IdMail"];
+                    reg.Observation = Convert.ToString(rdr["Observation"] is DBNull ? "" : rdr["Observation"]);
+                    if (rdr["IdTel"] is DBNull)
+                    {
+                        reg._parishionerData.IdTel = null;
+                    }
+                    else
+                    {
+                        reg._parishionerData.IdTel = (int)rdr["IdTel"];
+                    }
+                    if (rdr["IdAddress"] is DBNull)
+                    {
+                        reg._parishionerData.IdAddress = null;
+                    }
+                    else
+                    {
+                        reg._parishionerData.IdAddress = (int)rdr["IdAddress"];
+                    }
+                    if (rdr["IdMail"] is DBNull)
+                    {
+                        reg._parishionerData.IdMail = null;
+                    }
+                    else
+                    {
+                        reg._parishionerData.IdMail = (int)rdr["IdMail"];
+                    }
                     Lista.Add(reg);
                 }//while
 

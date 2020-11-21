@@ -50,9 +50,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtDocumento = new System.Windows.Forms.TextBox();
             this.lblDocumento = new System.Windows.Forms.Label();
-            this.btnOtherTelephone = new System.Windows.Forms.Button();
-            this.btnOtherMail = new System.Windows.Forms.Button();
-            this.btnOtherAddress = new System.Windows.Forms.Button();
             this.chbDateTime = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.Error)).BeginInit();
             this.SuspendLayout();
@@ -298,55 +295,6 @@
             this.lblDocumento.TabIndex = 27;
             this.lblDocumento.Text = "Documento *";
             // 
-            // btnOtherTelephone
-            // 
-            this.btnOtherTelephone.BackColor = System.Drawing.Color.Transparent;
-            this.btnOtherTelephone.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOtherTelephone.BackgroundImage")));
-            this.btnOtherTelephone.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnOtherTelephone.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOtherTelephone.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnOtherTelephone.FlatAppearance.BorderSize = 0;
-            this.btnOtherTelephone.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnOtherTelephone.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOtherTelephone.Location = new System.Drawing.Point(274, 206);
-            this.btnOtherTelephone.Name = "btnOtherTelephone";
-            this.btnOtherTelephone.Size = new System.Drawing.Size(21, 24);
-            this.btnOtherTelephone.TabIndex = 11;
-            this.btnOtherTelephone.UseVisualStyleBackColor = false;
-//            this.btnOtherTelephone.Click += new System.EventHandler(this.BtnOtherTelephone_Click);
-            // 
-            // btnOtherMail
-            // 
-            this.btnOtherMail.BackColor = System.Drawing.Color.Transparent;
-            this.btnOtherMail.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOtherMail.BackgroundImage")));
-            this.btnOtherMail.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnOtherMail.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOtherMail.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnOtherMail.FlatAppearance.BorderSize = 0;
-            this.btnOtherMail.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnOtherMail.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOtherMail.Location = new System.Drawing.Point(275, 294);
-            this.btnOtherMail.Name = "btnOtherMail";
-            this.btnOtherMail.Size = new System.Drawing.Size(21, 24);
-            this.btnOtherMail.TabIndex = 13;
-            this.btnOtherMail.UseVisualStyleBackColor = false;
-            // 
-            // btnOtherAddress
-            // 
-            this.btnOtherAddress.BackColor = System.Drawing.Color.Transparent;
-            this.btnOtherAddress.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOtherAddress.BackgroundImage")));
-            this.btnOtherAddress.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnOtherAddress.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOtherAddress.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnOtherAddress.FlatAppearance.BorderSize = 0;
-            this.btnOtherAddress.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnOtherAddress.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOtherAddress.Location = new System.Drawing.Point(276, 250);
-            this.btnOtherAddress.Name = "btnOtherAddress";
-            this.btnOtherAddress.Size = new System.Drawing.Size(21, 24);
-            this.btnOtherAddress.TabIndex = 12;
-            this.btnOtherAddress.UseVisualStyleBackColor = false;
-            // 
             // chbDateTime
             // 
             this.chbDateTime.AutoSize = true;
@@ -364,9 +312,6 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(302, 465);
             this.Controls.Add(this.chbDateTime);
-            this.Controls.Add(this.btnOtherAddress);
-            this.Controls.Add(this.btnOtherMail);
-            this.Controls.Add(this.btnOtherTelephone);
             this.Controls.Add(this.txtDocumento);
             this.Controls.Add(this.lblDocumento);
             this.Controls.Add(this.label2);
@@ -422,9 +367,6 @@
         public System.Windows.Forms.Label label2;
         public System.Windows.Forms.TextBox txtAddress;
         public System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnOtherAddress;
-        private System.Windows.Forms.Button btnOtherMail;
-        private System.Windows.Forms.Button btnOtherTelephone;
         public System.Windows.Forms.CheckBox chbDateTime;
     }
 }

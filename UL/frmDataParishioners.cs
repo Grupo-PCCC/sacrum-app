@@ -129,7 +129,7 @@ namespace UL
                             MessageBox.Show("Se han actualizado los datos del feligrés correctamente", "Registro de feligrés", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             _owner.CargarGrilla();
                             Combo.Combo2Campos(_owner2.cbActivity, "Id", "Name", "Activity");
-                            //_owner2.CargarGrilla();
+                            _owner2.CargarGrilla();
                             this.Close();
                         }
                             else
@@ -168,6 +168,7 @@ namespace UL
                         e.Cancel = true;
                     }
                 }
+
             }
         }
         private void FrmDataParishioners_Load(object sender, EventArgs e)
@@ -178,17 +179,11 @@ namespace UL
             {
                 this.Text = "Nuevo feligrés";
                 chbDateTime.Checked = false;
-                btnOtherTelephone.Enabled = false;
-                btnOtherAddress.Enabled = false;
-                btnOtherMail.Enabled = false;
                 EnableDateTime();
             }
             else
             {
                 this.Text = "Modificar feligrés";
-                btnOtherTelephone.Enabled = true;
-                btnOtherAddress.Enabled = true;
-                btnOtherMail.Enabled = true;
             }
             
         }
@@ -313,8 +308,7 @@ namespace UL
 
         private void BtnOtherTelephone_Click(object sender, EventArgs e)
         {
-            frmOtherDataParishioner FODP = new frmOtherDataParishioner("telefono", this);
-            FODP.ShowDialog();
+
         }
     }
 }

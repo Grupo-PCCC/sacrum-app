@@ -38,7 +38,7 @@ namespace UL
         {
             dgv_Users.Rows.Clear();
             var Nick = txtBuscar.Text.Trim();
-            var l =_Users.Listar(Nick, Users.CacheUser.Id);
+            var l =_Users.Listar(Nick);
 
             foreach (var X in l)
             {

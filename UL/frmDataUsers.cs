@@ -241,11 +241,11 @@ namespace UL
                 L.ActionDate = DateTime.Now;
                 L._users.Id = Users.CacheUser.Id;
                 L.WriteLog(L);
+                frm.Close();
                 this.Close();
                 frmLogin.Show();
                 frm.Close();
-
-                
+                frm.Hide();
             }
         }
 

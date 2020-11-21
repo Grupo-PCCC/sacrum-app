@@ -112,18 +112,6 @@
     <Compile Include="frmDataParishioners.Designer.cs">
       <DependentUpon>frmDataParishioners.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmNewDataParishioner.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmNewDataParishioner.Designer.cs">
-      <DependentUpon>frmNewDataParishioner.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmOtherDataParishioner.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmOtherDataParishioner.Designer.cs">
-      <DependentUpon>frmOtherDataParishioner.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmParishioners.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -200,12 +188,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmDataParishioners.resx">
       <DependentUpon>frmDataParishioners.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmNewDataParishioner.resx">
-      <DependentUpon>frmNewDataParishioner.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmOtherDataParishioner.resx">
-      <DependentUpon>frmOtherDataParishioner.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmParishioners.resx">
       <DependentUpon>frmParishioners.cs</DependentUpon>

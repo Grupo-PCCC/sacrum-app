@@ -44,19 +44,22 @@
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.btn_cerrar = new System.Windows.Forms.PictureBox();
+            this.btnRefresh = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.dgv_Activities = new System.Windows.Forms.DataGridView();
             this.clmId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmDocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.FechaNac = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Tel_Pri = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Tel_Otro = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Telephone = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Address = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Mail = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clmObservation = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clmParishionerPhone1Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clmParishionerPhone2Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmParishionerPhoneId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmParishionerAddressId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmParishionerMailId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clmViewDetail = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.label5 = new System.Windows.Forms.Label();
-            this.btnRefresh = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btn_cerrar)).BeginInit();
@@ -203,6 +206,36 @@
             this.toolTip1.SetToolTip(this.btn_cerrar, "Cerrar");
             this.btn_cerrar.Click += new System.EventHandler(this.Btn_cerrar_Click);
             // 
+            // btnRefresh
+            // 
+            this.btnRefresh.BackColor = System.Drawing.Color.Transparent;
+            this.btnRefresh.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRefresh.BackgroundImage")));
+            this.btnRefresh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnRefresh.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnRefresh.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
+            this.btnRefresh.FlatAppearance.BorderSize = 0;
+            this.btnRefresh.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
+            this.btnRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRefresh.Location = new System.Drawing.Point(1128, 142);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(27, 25);
+            this.btnRefresh.TabIndex = 72;
+            this.toolTip1.SetToolTip(this.btnRefresh, "Refrescar");
+            this.btnRefresh.UseVisualStyleBackColor = false;
+            this.btnRefresh.Click += new System.EventHandler(this.BtnRefresh_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Transparent;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Black;
+            this.label5.Location = new System.Drawing.Point(5, 9);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(165, 31);
+            this.label5.TabIndex = 45;
+            this.label5.Text = "Actividades";
+            // 
             // dgv_Activities
             // 
             this.dgv_Activities.AllowUserToAddRows = false;
@@ -229,12 +262,15 @@
             this.clmId,
             this.Nombre,
             this.Apellido,
+            this.clmDocumento,
             this.FechaNac,
-            this.Tel_Pri,
-            this.Tel_Otro,
+            this.Telephone,
+            this.Address,
+            this.Mail,
             this.clmObservation,
-            this.clmParishionerPhone1Id,
-            this.clmParishionerPhone2Id,
+            this.clmParishionerPhoneId,
+            this.clmParishionerAddressId,
+            this.clmParishionerMailId,
             this.clmViewDetail});
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
@@ -246,6 +282,7 @@
             this.dgv_Activities.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgv_Activities.EnableHeadersVisualStyles = false;
             this.dgv_Activities.Location = new System.Drawing.Point(6, 173);
+            this.dgv_Activities.MultiSelect = false;
             this.dgv_Activities.Name = "dgv_Activities";
             this.dgv_Activities.ReadOnly = true;
             this.dgv_Activities.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
@@ -253,7 +290,7 @@
             this.dgv_Activities.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             this.dgv_Activities.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgv_Activities.Size = new System.Drawing.Size(1149, 446);
-            this.dgv_Activities.TabIndex = 63;
+            this.dgv_Activities.TabIndex = 73;
             this.dgv_Activities.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Dgv_Activities_CellContentClick);
             this.dgv_Activities.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Dgv_Activities_CellDoubleClick);
             this.dgv_Activities.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.Dgv_Activities_RowsAdded);
@@ -284,6 +321,13 @@
             this.Apellido.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.Apellido.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
             // 
+            // clmDocumento
+            // 
+            this.clmDocumento.HeaderText = "Documento";
+            this.clmDocumento.Name = "clmDocumento";
+            this.clmDocumento.ReadOnly = true;
+            this.clmDocumento.Width = 125;
+            // 
             // FechaNac
             // 
             this.FechaNac.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
@@ -291,19 +335,26 @@
             this.FechaNac.Name = "FechaNac";
             this.FechaNac.ReadOnly = true;
             // 
-            // Tel_Pri
+            // Telephone
             // 
-            this.Tel_Pri.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Tel_Pri.HeaderText = "Teléfono principal";
-            this.Tel_Pri.Name = "Tel_Pri";
-            this.Tel_Pri.ReadOnly = true;
+            this.Telephone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Telephone.HeaderText = "Teléfono";
+            this.Telephone.Name = "Telephone";
+            this.Telephone.ReadOnly = true;
             // 
-            // Tel_Otro
+            // Address
             // 
-            this.Tel_Otro.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Tel_Otro.HeaderText = "Teléfono alternativo";
-            this.Tel_Otro.Name = "Tel_Otro";
-            this.Tel_Otro.ReadOnly = true;
+            this.Address.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Address.HeaderText = "Dirección";
+            this.Address.Name = "Address";
+            this.Address.ReadOnly = true;
+            // 
+            // Mail
+            // 
+            this.Mail.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Mail.HeaderText = "Mail";
+            this.Mail.Name = "Mail";
+            this.Mail.ReadOnly = true;
             // 
             // clmObservation
             // 
@@ -313,21 +364,29 @@
             this.clmObservation.Visible = false;
             this.clmObservation.Width = 129;
             // 
-            // clmParishionerPhone1Id
+            // clmParishionerPhoneId
             // 
-            this.clmParishionerPhone1Id.HeaderText = "PHP1Id";
-            this.clmParishionerPhone1Id.Name = "clmParishionerPhone1Id";
-            this.clmParishionerPhone1Id.ReadOnly = true;
-            this.clmParishionerPhone1Id.Visible = false;
-            this.clmParishionerPhone1Id.Width = 94;
+            this.clmParishionerPhoneId.HeaderText = "telId";
+            this.clmParishionerPhoneId.Name = "clmParishionerPhoneId";
+            this.clmParishionerPhoneId.ReadOnly = true;
+            this.clmParishionerPhoneId.Visible = false;
+            this.clmParishionerPhoneId.Width = 69;
             // 
-            // clmParishionerPhone2Id
+            // clmParishionerAddressId
             // 
-            this.clmParishionerPhone2Id.HeaderText = "PHP2Id";
-            this.clmParishionerPhone2Id.Name = "clmParishionerPhone2Id";
-            this.clmParishionerPhone2Id.ReadOnly = true;
-            this.clmParishionerPhone2Id.Visible = false;
-            this.clmParishionerPhone2Id.Width = 94;
+            this.clmParishionerAddressId.HeaderText = "addressId";
+            this.clmParishionerAddressId.Name = "clmParishionerAddressId";
+            this.clmParishionerAddressId.ReadOnly = true;
+            this.clmParishionerAddressId.Visible = false;
+            this.clmParishionerAddressId.Width = 113;
+            // 
+            // clmParishionerMailId
+            // 
+            this.clmParishionerMailId.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.clmParishionerMailId.HeaderText = "mailid";
+            this.clmParishionerMailId.Name = "clmParishionerMailId";
+            this.clmParishionerMailId.ReadOnly = true;
+            this.clmParishionerMailId.Visible = false;
             // 
             // clmViewDetail
             // 
@@ -340,45 +399,15 @@
             this.clmViewDetail.UseColumnTextForButtonValue = true;
             this.clmViewDetail.Width = 71;
             // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(5, 9);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(165, 31);
-            this.label5.TabIndex = 45;
-            this.label5.Text = "Actividades";
-            // 
-            // btnRefresh
-            // 
-            this.btnRefresh.BackColor = System.Drawing.Color.Transparent;
-            this.btnRefresh.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRefresh.BackgroundImage")));
-            this.btnRefresh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnRefresh.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnRefresh.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnRefresh.FlatAppearance.BorderSize = 0;
-            this.btnRefresh.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnRefresh.Location = new System.Drawing.Point(1128, 142);
-            this.btnRefresh.Name = "btnRefresh";
-            this.btnRefresh.Size = new System.Drawing.Size(27, 25);
-            this.btnRefresh.TabIndex = 72;
-            this.toolTip1.SetToolTip(this.btnRefresh, "Refrescar");
-            this.btnRefresh.UseVisualStyleBackColor = false;
-            this.btnRefresh.Click += new System.EventHandler(this.BtnRefresh_Click);
-            // 
             // frmActivities
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1328, 788);
+            this.Controls.Add(this.dgv_Activities);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.dgv_Activities);
             this.Controls.Add(this.btn_cerrar);
             this.Controls.Add(this.Lbl_Buscar);
             this.Controls.Add(this.txtBuscar);
@@ -388,6 +417,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmActivities";
+            this.Activated += new System.EventHandler(this.FrmActivities_Activated);
             this.Load += new System.EventHandler(this.FrmActivities_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
@@ -408,20 +438,23 @@
         private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.PictureBox btn_cerrar;
         private System.Windows.Forms.ToolTip toolTip1;
-        public System.Windows.Forms.DataGridView dgv_Activities;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmId;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Apellido;
-        private System.Windows.Forms.DataGridViewTextBoxColumn FechaNac;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Tel_Pri;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Tel_Otro;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmObservation;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerPhone1Id;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerPhone2Id;
-        private System.Windows.Forms.DataGridViewButtonColumn clmViewDetail;
         public System.Windows.Forms.ComboBox cbActivity;
         private System.Windows.Forms.Label label5;
         public System.Windows.Forms.Button BtnDelete;
         private System.Windows.Forms.Button btnRefresh;
+        public System.Windows.Forms.DataGridView dgv_Activities;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Apellido;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmDocumento;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FechaNac;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Telephone;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Address;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Mail;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmObservation;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerPhoneId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerAddressId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerMailId;
+        private System.Windows.Forms.DataGridViewButtonColumn clmViewDetail;
     }
 }

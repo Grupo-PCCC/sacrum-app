@@ -306,7 +306,7 @@ namespace LL
             return answ;
         }
 
-        public List<Users> Listar(string Nick, int userId)
+        public List<Users> Listar(string Nick)
         {
             var conn = new SqlConnection();
             var command = new SqlCommand();
@@ -321,7 +321,6 @@ namespace LL
                 command.CommandText = "ListUser";
                 command.CommandType = CommandType.StoredProcedure;
                 command.Parameters.AddWithValue("@Nick", Nick);
-                command.Parameters.AddWithValue("@UserId", userId);
                 var rdr = command.ExecuteReader();
 
                 while (rdr != null && rdr.Read())

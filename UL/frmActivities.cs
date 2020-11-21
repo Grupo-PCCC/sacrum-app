@@ -43,14 +43,27 @@ namespace UL
                 var l = P.ListParishByActivity(name, activityId);
                 foreach (var X in l)
                 {
-                    dgv_Activities.Rows.Add(X.Id, X.Name, X.Surname, X.Documento, X.BirthDate, X.Telephone, X.Address, X.Mail, X.Observation, X._parishionerData.IdTel, X._parishionerData.IdAddress, X._parishionerData.IdMail);
+                    dgv_Activities.Rows.Add(X.Id, X.Name, X.Surname, X.Documento, Convert.ToDateTime(X.BirthDate).ToShortDateString(), X.Telephone, X.Address, X.Mail, X.Observation, X._parishionerData.IdTel, X._parishionerData.IdAddress, X._parishionerData.IdMail);
                 }
+                NullDateTime(dgv_Activities);
                 Lbl_Filas.Text = "Registros:" + Convert.ToString(dgv_Activities.Rows.Count);
                 Lbl_Filas.Visible = true;
             }
             
         }
 
+        private void NullDateTime(DataGridView datagrid)
+
+        {
+            foreach (DataGridViewRow row in datagrid.Rows)
+            {
+                if (Convert.ToString(datagrid.Rows[row.Index].Cells[4].Value) == "1/1/0001")
+
+                {
+                    datagrid.Rows[row.Index].Cells[4].Value = "";
+                }
+            }
+        }
         private void TxtBuscar_TextChanged(object sender, EventArgs e)
         {
             CargarGrilla();
