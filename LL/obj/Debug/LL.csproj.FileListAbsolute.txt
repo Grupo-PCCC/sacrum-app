@@ -1,0 +1,119 @@
+C:\Desarrollos\Sacrum\Sacrum\Conectar\bin\Debug\Conectar.dll
+C:\Desarrollos\Sacrum\Sacrum\Conectar\bin\Debug\Conectar.pdb
+C:\Desarrollos\Sacrum\Sacrum\Conectar\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum\Sacrum\Conectar\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum\Sacrum\Conectar\obj\Debug\Conectar.dll
+C:\Desarrollos\Sacrum\Sacrum\Conectar\obj\Debug\Conectar.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\LL\obj\Debug\LL.pdb
+C:\Desarrollos\Sacrum\LL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum\LL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum\LL\obj\Debug\LL.dll
+C:\Desarrollos\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\usuario\Downloads\Sacrum\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\usuario\Downloads\Sacrum\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\usuario\Downloads\Sacrum\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\Sacrum\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Sacrum\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\usuario\Downloads\Sacrum\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\LL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum\LL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum-final\Sacrum\LL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum-final\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum-final\Sacrum\LL\obj\Debug\LL.dll
+C:\Desarrollos\Sacrum-final\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\LL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\LL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.dll
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\LL\obj\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\LL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\LL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\LL\obj\Debug\LL.dll
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\LL\obj\Debug\LL.pdb
+C:\Desarrollos\SACRUM\Sacrum\LL\bin\Debug\LL.dll
+C:\Desarrollos\SACRUM\Sacrum\LL\bin\Debug\LL.pdb
+C:\Desarrollos\SACRUM\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Desarrollos\SACRUM\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\SACRUM\Sacrum\LL\obj\Debug\LL.dll
+C:\Desarrollos\SACRUM\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\gabri\Source\Repos\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\gabri\Source\Repos\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\gabri\Source\Repos\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Source\Repos\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\gabri\Source\Repos\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\LL\obj\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\LL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\LL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\LL\obj\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\LL\obj\Debug\LL.pdb
+C:\Users\gabri\source\repos\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\bin\Debug\LL.dll
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\bin\Debug\LL.pdb
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\obj\Debug\LL.dll
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\obj\Debug\LL.pdb

@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{732645E8-800F-47E1-9AA4-1C09FF785B79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UL</RootNamespace>
+    <AssemblyName>Sacrum</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmActivities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActivities.designer.cs">
+      <DependentUpon>frmActivities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataProvider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataProvider.Designer.cs">
+      <DependentUpon>frmDataProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataUsers.designer.cs">
+      <DependentUpon>frmDataUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.Designer.cs">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategory.designer.cs">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyActivity.Designer.cs">
+      <DependentUpon>frmModifyActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewActivity.designer.cs">
+      <DependentUpon>frmNewActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewCashMovement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewCashMovement.designer.cs">
+      <DependentUpon>frmNewCashMovement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataParishioners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataParishioners.Designer.cs">
+      <DependentUpon>frmDataParishioners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewDataParishioner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewDataParishioner.Designer.cs">
+      <DependentUpon>frmNewDataParishioner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOtherDataParishioner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOtherDataParishioner.Designer.cs">
+      <DependentUpon>frmOtherDataParishioner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParishioners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParishioners.Designer.cs">
+      <DependentUpon>frmParishioners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCashMovement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCashMovement.Designer.cs">
+      <DependentUpon>frmCashMovement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewCategory.Designer.cs">
+      <DependentUpon>frmNewCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProviders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProviders.Designer.cs">
+      <DependentUpon>frmProviders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectedCashMovement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectedCashMovement.Designer.cs">
+      <DependentUpon>frmSelectedCashMovement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmActivities.resx">
+      <DependentUpon>frmActivities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataProvider.resx">
+      <DependentUpon>frmDataProvider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataUsers.resx">
+      <DependentUpon>frmDataUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog.resx">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.es.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategory.resx">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyActivity.resx">
+      <DependentUpon>frmModifyActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewActivity.resx">
+      <DependentUpon>frmNewActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewCashMovement.resx">
+      <DependentUpon>frmNewCashMovement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataParishioners.resx">
+      <DependentUpon>frmDataParishioners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewDataParishioner.resx">
+      <DependentUpon>frmNewDataParishioner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOtherDataParishioner.resx">
+      <DependentUpon>frmOtherDataParishioner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParishioners.resx">
+      <DependentUpon>frmParishioners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCashMovement.resx">
+      <DependentUpon>frmCashMovement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewCategory.resx">
+      <DependentUpon>frmNewCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProviders.resx">
+      <DependentUpon>frmProviders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectedCashMovement.resx">
+      <DependentUpon>frmSelectedCashMovement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LL\LL.csproj">
+      <Project>{8f19bda2-6dde-4343-a07b-7f6362a51ceb}</Project>
+      <Name>LL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ortodoxo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2019-09-06 at 9.35.42 PM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2157725.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2097963.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2157723.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2157758.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Activities.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja-fuerte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carpeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COnfig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hombre-que-corre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ParishRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

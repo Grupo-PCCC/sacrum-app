@@ -1,0 +1,558 @@
+C:\Desarrollos\Sacrum\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Desarrollos\Sacrum\Sacrum\UL\bin\Debug\UL.exe
+C:\Desarrollos\Sacrum\Sacrum\UL\bin\Debug\UL.pdb
+C:\Desarrollos\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Desarrollos\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Desarrollos\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum\Sacrum\UL\obj\Debug\UL.exe
+C:\Desarrollos\Sacrum\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Desarrollos\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Desarrollos\Sacrum\UL\bin\Debug\UL.exe
+C:\Desarrollos\Sacrum\UL\bin\Debug\UL.pdb
+C:\Desarrollos\Sacrum\UL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum\UL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.FormLogin.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.FormPrincipal.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.ABMParishioner.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.exe
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.pdb
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Desarrollos\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.FormLogin.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.FormPrincipal.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.ABMParishioner.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\usuario\Downloads\Sacrum\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.ABMParishioner.resources
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\usuario\Desktop\Sacrum\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.ABMParishioner.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum2\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum-final\Sacrum\UL\obj\Debug\UL.FormPrincipal.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Desarrollos\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe
+C:\Desarrollos\Sacrum-final\Sacrum\UL\bin\Debug\UL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum\UL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum-final\Sacrum\UL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.FormPrincipal.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.exe
+C:\Desarrollos\Sacrum-final\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.FormPrincipal.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\UL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.exe
+C:\Desarrollos\Sacrum-final\Sacrum-final\Sacrum\UL\obj\Debug\UL.pdb
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\bin\Debug\UL.exe
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\bin\Debug\UL.pdb
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\bin\Debug\LL.dll
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\bin\Debug\LL.pdb
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.exe
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.pdb
+C:\Desarrollos\Sacrum-final-mio-9-10\Sacrum-final\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmNewParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmMsgClose.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmMsgAvisoError.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_gaby\Sacrum\UL\obj\Debug\UL.frmMsgLogOff.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\bin\Debug\LL.dll
+C:\Desarrollos\SACRUM\Sacrum\UL\bin\Debug\LL.pdb
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmMsgLogOff.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmMsgAvisoError.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmMsgClose.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum Cavagni\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Desarrollos\SACRUM\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\gabri\Source\Repos\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\Sacrum\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\gabri\source\repos\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\bin\Debug\es\UL.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\es\UL.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Sacrum\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\UL.exe.config
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\UL.exe
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\UL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\es\UL.resources.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\es\UL.resources.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.exe
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\bin\Debug\es\UL.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\Sacrum\UL\obj\Debug\es\UL.resources.dll
+C:\Users\gabri\source\repos\Sacrum\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\gabri\source\repos\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\gabri\source\repos\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\UL.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\UL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\es\UL.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmLog.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\es\UL.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_Ori\UL\obj\Debug\UL.pdb
+C:\Users\gabri\source\repos\Sacrum\UL\bin\Debug\Sacrum.exe.config
+C:\Users\gabri\source\repos\Sacrum\UL\bin\Debug\Sacrum.exe
+C:\Users\gabri\source\repos\Sacrum\UL\bin\Debug\Sacrum.pdb
+C:\Users\gabri\source\repos\Sacrum\UL\bin\Debug\es\Sacrum.resources.dll
+C:\Users\gabri\source\repos\Sacrum\UL\obj\Debug\es\Sacrum.resources.dll
+C:\Users\gabri\source\repos\Sacrum\UL\obj\Debug\Sacrum.exe
+C:\Users\gabri\source\repos\Sacrum\UL\obj\Debug\Sacrum.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\Sacrum.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\Sacrum.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\Sacrum.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\es\Sacrum.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\es\Sacrum.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\Sacrum.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum\UL\obj\Debug\Sacrum.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\Sacrum.exe.config
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\Sacrum.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\Sacrum.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\es\Sacrum.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\LL.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\LL.pdb
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmLog.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\es\Sacrum.resources.dll
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\Sacrum.exe
+C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Debug\Sacrum.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\Sacrum.exe.config
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\Sacrum.exe
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\Sacrum.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\es\Sacrum.resources.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\LL.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\LL.pdb
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmLog.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\es\Sacrum.resources.dll
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\Sacrum.exe
+C:\Users\gabri\OneDrive\Escritorio\Sacrum_origi\UL\obj\Debug\Sacrum.pdb
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\Sacrum.exe.config
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\Sacrum.exe
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\Sacrum.pdb
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\es\Sacrum.resources.dll
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\LL.dll
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\LL.pdb
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmLog.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\es\Sacrum.resources.dll
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\Sacrum.exe
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\Sacrum.pdb
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmNewDataParishioner.resources
+C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\UL\obj\Debug\UL.frmOtherDataParishioner.resources
