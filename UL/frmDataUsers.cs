@@ -233,8 +233,7 @@ namespace UL
                 Error.SetError(Txt_RPass, "Las contraseñas escritas no son iguales");
                 flag = 1;
             }
-            if (accion == "misdatos")
-            {
+
                 if (Txt_Pass.Text == Txt_RPass.Text && flag == 0)
                 {
                     Error.Clear();
@@ -248,7 +247,7 @@ namespace UL
                     L.WriteLog(L);
                     Application.Exit();
                 }
-            }
+            
 
         }
 
