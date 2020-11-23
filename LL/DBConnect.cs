@@ -14,7 +14,7 @@ namespace LL
         {
             try
             {
-                _server = System.Net.Dns.GetHostName();
+                _server = "thrn.ddns.net,1600";
                 _database = "SacrumDb";
             }
         
@@ -27,7 +27,7 @@ namespace LL
 
         public SqlConnection Open() 
         {
-            sqlConnectionString = ("Server=" + _server + ";Database=" + _database + ";Trusted_Connection=Yes");
+            sqlConnectionString = "Data Source=thrn.ddns.net,1600;Initial Catalog=SacrumDb;User Id=sa; Password=D13g0";
             var conn = new SqlConnection(sqlConnectionString); 
             conn.Open();
             return conn;
