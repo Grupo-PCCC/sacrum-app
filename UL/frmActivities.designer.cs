@@ -60,6 +60,7 @@
             this.clmParishionerAddressId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clmParishionerMailId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clmViewDetail = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.btnExcel = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btn_cerrar)).BeginInit();
@@ -399,12 +400,29 @@
             this.clmViewDetail.UseColumnTextForButtonValue = true;
             this.clmViewDetail.Width = 71;
             // 
+            // btnExcel
+            // 
+            this.btnExcel.BackColor = System.Drawing.Color.Transparent;
+            this.btnExcel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnExcel.BackgroundImage")));
+            this.btnExcel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExcel.FlatAppearance.BorderSize = 0;
+            this.btnExcel.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
+            this.btnExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExcel.Location = new System.Drawing.Point(1065, 79);
+            this.btnExcel.Name = "btnExcel";
+            this.btnExcel.Size = new System.Drawing.Size(90, 30);
+            this.btnExcel.TabIndex = 74;
+            this.btnExcel.UseVisualStyleBackColor = false;
+            this.btnExcel.Click += new System.EventHandler(this.BtnExcel_Click);
+            // 
             // frmActivities
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1328, 788);
+            this.Controls.Add(this.btnExcel);
             this.Controls.Add(this.dgv_Activities);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.label5);
@@ -456,5 +474,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerAddressId;
         private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerMailId;
         private System.Windows.Forms.DataGridViewButtonColumn clmViewDetail;
+        private System.Windows.Forms.Button btnExcel;
     }
 }

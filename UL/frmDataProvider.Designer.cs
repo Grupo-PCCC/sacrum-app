@@ -37,9 +37,6 @@
             this.Error = new System.Windows.Forms.ErrorProvider(this.components);
             this.txtExit = new System.Windows.Forms.Button();
             this.btnAccept = new System.Windows.Forms.Button();
-            this.btnOtherAddress = new System.Windows.Forms.Button();
-            this.btnOtherMail = new System.Windows.Forms.Button();
-            this.btnOtherTelephone = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.txtAddress = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -56,7 +53,7 @@
             this.txtObservation.MaxLength = 120;
             this.txtObservation.Name = "txtObservation";
             this.txtObservation.Size = new System.Drawing.Size(255, 92);
-            this.txtObservation.TabIndex = 24;
+            this.txtObservation.TabIndex = 5;
             this.txtObservation.Text = "";
             // 
             // Lbl_Dni
@@ -80,7 +77,7 @@
             this.txtName.Name = "txtName";
             this.txtName.ShortcutsEnabled = false;
             this.txtName.Size = new System.Drawing.Size(253, 22);
-            this.txtName.TabIndex = 6;
+            this.txtName.TabIndex = 1;
             this.txtName.Enter += new System.EventHandler(this.TxtName_Enter);
             this.txtName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtName_KeyPress);
             this.txtName.Leave += new System.EventHandler(this.TxtName_Leave);
@@ -113,7 +110,7 @@
             this.txtExit.Location = new System.Drawing.Point(249, 302);
             this.txtExit.Name = "txtExit";
             this.txtExit.Size = new System.Drawing.Size(22, 23);
-            this.txtExit.TabIndex = 33;
+            this.txtExit.TabIndex = 7;
             this.txtExit.UseVisualStyleBackColor = false;
             this.txtExit.Click += new System.EventHandler(this.BtnCancel_Click);
             // 
@@ -130,64 +127,16 @@
             this.btnAccept.Location = new System.Drawing.Point(206, 302);
             this.btnAccept.Name = "btnAccept";
             this.btnAccept.Size = new System.Drawing.Size(22, 23);
-            this.btnAccept.TabIndex = 32;
+            this.btnAccept.TabIndex = 6;
             this.btnAccept.UseVisualStyleBackColor = false;
             this.btnAccept.Click += new System.EventHandler(this.BtnAccept_Click);
-            // 
-            // btnOtherAddress
-            // 
-            this.btnOtherAddress.BackColor = System.Drawing.Color.Transparent;
-            this.btnOtherAddress.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOtherAddress.BackgroundImage")));
-            this.btnOtherAddress.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnOtherAddress.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOtherAddress.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnOtherAddress.FlatAppearance.BorderSize = 0;
-            this.btnOtherAddress.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnOtherAddress.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOtherAddress.Location = new System.Drawing.Point(276, 160);
-            this.btnOtherAddress.Name = "btnOtherAddress";
-            this.btnOtherAddress.Size = new System.Drawing.Size(21, 24);
-            this.btnOtherAddress.TabIndex = 42;
-            this.btnOtherAddress.UseVisualStyleBackColor = false;
-            // 
-            // btnOtherMail
-            // 
-            this.btnOtherMail.BackColor = System.Drawing.Color.Transparent;
-            this.btnOtherMail.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOtherMail.BackgroundImage")));
-            this.btnOtherMail.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnOtherMail.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOtherMail.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnOtherMail.FlatAppearance.BorderSize = 0;
-            this.btnOtherMail.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnOtherMail.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOtherMail.Location = new System.Drawing.Point(276, 116);
-            this.btnOtherMail.Name = "btnOtherMail";
-            this.btnOtherMail.Size = new System.Drawing.Size(21, 24);
-            this.btnOtherMail.TabIndex = 41;
-            this.btnOtherMail.UseVisualStyleBackColor = false;
-            // 
-            // btnOtherTelephone
-            // 
-            this.btnOtherTelephone.BackColor = System.Drawing.Color.Transparent;
-            this.btnOtherTelephone.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOtherTelephone.BackgroundImage")));
-            this.btnOtherTelephone.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnOtherTelephone.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOtherTelephone.FlatAppearance.BorderColor = System.Drawing.Color.BlanchedAlmond;
-            this.btnOtherTelephone.FlatAppearance.BorderSize = 0;
-            this.btnOtherTelephone.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.btnOtherTelephone.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOtherTelephone.Location = new System.Drawing.Point(276, 72);
-            this.btnOtherTelephone.Name = "btnOtherTelephone";
-            this.btnOtherTelephone.Size = new System.Drawing.Size(21, 24);
-            this.btnOtherTelephone.TabIndex = 40;
-            this.btnOtherTelephone.UseVisualStyleBackColor = false;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(13, 97);
+            this.label2.Location = new System.Drawing.Point(16, 140);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(37, 16);
             this.label2.TabIndex = 39;
@@ -198,19 +147,19 @@
             this.txtAddress.BackColor = System.Drawing.Color.White;
             this.txtAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtAddress.ForeColor = System.Drawing.Color.Black;
-            this.txtAddress.Location = new System.Drawing.Point(16, 160);
-            this.txtAddress.MaxLength = 15;
+            this.txtAddress.Location = new System.Drawing.Point(19, 113);
+            this.txtAddress.MaxLength = 50;
             this.txtAddress.Name = "txtAddress";
             this.txtAddress.ShortcutsEnabled = false;
             this.txtAddress.Size = new System.Drawing.Size(253, 22);
-            this.txtAddress.TabIndex = 37;
+            this.txtAddress.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(12, 141);
+            this.label1.Location = new System.Drawing.Point(15, 94);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(74, 16);
             this.label1.TabIndex = 38;
@@ -221,12 +170,12 @@
             this.txtMail.BackColor = System.Drawing.Color.White;
             this.txtMail.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtMail.ForeColor = System.Drawing.Color.Black;
-            this.txtMail.Location = new System.Drawing.Point(16, 116);
-            this.txtMail.MaxLength = 15;
+            this.txtMail.Location = new System.Drawing.Point(19, 159);
+            this.txtMail.MaxLength = 50;
             this.txtMail.Name = "txtMail";
             this.txtMail.ShortcutsEnabled = false;
             this.txtMail.Size = new System.Drawing.Size(253, 22);
-            this.txtMail.TabIndex = 35;
+            this.txtMail.TabIndex = 4;
             // 
             // txtTelephone
             // 
@@ -234,11 +183,11 @@
             this.txtTelephone.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtTelephone.ForeColor = System.Drawing.Color.Black;
             this.txtTelephone.Location = new System.Drawing.Point(17, 72);
-            this.txtTelephone.MaxLength = 15;
+            this.txtTelephone.MaxLength = 30;
             this.txtTelephone.Name = "txtTelephone";
             this.txtTelephone.ShortcutsEnabled = false;
             this.txtTelephone.Size = new System.Drawing.Size(253, 22);
-            this.txtTelephone.TabIndex = 34;
+            this.txtTelephone.TabIndex = 2;
             // 
             // label3
             // 
@@ -256,10 +205,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(300, 328);
-            this.Controls.Add(this.btnOtherAddress);
-            this.Controls.Add(this.btnOtherMail);
-            this.Controls.Add(this.btnOtherTelephone);
+            this.ClientSize = new System.Drawing.Size(283, 328);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtAddress);
             this.Controls.Add(this.label1);
@@ -294,9 +240,6 @@
         private System.Windows.Forms.ErrorProvider Error;
         public System.Windows.Forms.Button txtExit;
         public System.Windows.Forms.Button btnAccept;
-        private System.Windows.Forms.Button btnOtherAddress;
-        private System.Windows.Forms.Button btnOtherMail;
-        private System.Windows.Forms.Button btnOtherTelephone;
         public System.Windows.Forms.Label label2;
         public System.Windows.Forms.TextBox txtAddress;
         public System.Windows.Forms.Label label1;

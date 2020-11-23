@@ -69,6 +69,7 @@
             this.btn_cerrar = new System.Windows.Forms.PictureBox();
             this.Tip = new System.Windows.Forms.ToolTip(this.components);
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnExcel = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label5 = new System.Windows.Forms.Label();
             this.Error = new System.Windows.Forms.ErrorProvider(this.components);
@@ -452,7 +453,7 @@
             this.BtnSearch.FlatAppearance.BorderSize = 0;
             this.BtnSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
             this.BtnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnSearch.Location = new System.Drawing.Point(804, 36);
+            this.BtnSearch.Location = new System.Drawing.Point(804, 16);
             this.BtnSearch.Name = "BtnSearch";
             this.BtnSearch.Size = new System.Drawing.Size(67, 32);
             this.BtnSearch.TabIndex = 0;
@@ -528,6 +529,7 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.btnExcel);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.BtnSearch);
             this.groupBox1.Controls.Add(this.panel3);
@@ -541,6 +543,22 @@
             this.groupBox1.TabIndex = 45;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Filtros";
+            // 
+            // btnExcel
+            // 
+            this.btnExcel.BackColor = System.Drawing.Color.Transparent;
+            this.btnExcel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnExcel.BackgroundImage")));
+            this.btnExcel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExcel.FlatAppearance.BorderSize = 0;
+            this.btnExcel.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
+            this.btnExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExcel.Location = new System.Drawing.Point(799, 54);
+            this.btnExcel.Name = "btnExcel";
+            this.btnExcel.Size = new System.Drawing.Size(90, 30);
+            this.btnExcel.TabIndex = 66;
+            this.btnExcel.UseVisualStyleBackColor = false;
+            this.btnExcel.Click += new System.EventHandler(this.BtnExcel_Click);
             // 
             // groupBox2
             // 
@@ -650,5 +668,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn clmObservation;
         private System.Windows.Forms.DataGridViewTextBoxColumn clmUId;
         private System.Windows.Forms.DataGridViewButtonColumn clmViewDetail;
+        private System.Windows.Forms.Button btnExcel;
     }
 }

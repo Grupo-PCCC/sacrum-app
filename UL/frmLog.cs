@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Excel = Microsoft.Office.Interop.Excel;
+using SpreadsheetLight;
 using LL;
 
 namespace UL
@@ -132,6 +134,52 @@ namespace UL
                 cbUsers.DataSource = null;
                 cbUsers.Items.Clear();
                 cbUsers.Enabled = false;
+            }
+        }
+        private void BtnExcel_Click(object sender, EventArgs e)
+        {
+            if (dgvLog.Rows.Count > 0)
+            {
+
+                SLDocument sl = new SLDocument();
+                SLStyle style = new SLStyle();
+                style.Font.FontSize = 14;
+                style.Font.Bold = true;
+                sl.SetCellValue(1, 1, "Fecha y hora");
+                sl.SetCellStyle(1, 1, style);
+                sl.SetCellValue(1, 2, "Acción");
+                sl.SetCellStyle(1, 2, style);
+                sl.SetCellValue(1, 3, "Usuario");
+                sl.SetCellStyle(1, 3, style);
+
+                int iR = 2;
+                foreach (DataGridViewRow row in dgvLog.Rows)
+                {
+                    sl.SetCellValue(iR, 1, row.Cells[0].Value.ToString());
+                    sl.SetCellValue(iR, 2, row.Cells[1].Value.ToString());
+                    sl.SetCellValue(iR, 3, row.Cells[2].Value.ToString());
+                    iR++;
+                }
+                SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+                saveFileDialog1.Title = "Guardar archivo";
+                saveFileDialog1.CheckPathExists = true;
+                saveFileDialog1.DefaultExt = "xlsx";
+                if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        sl.SaveAs(saveFileDialog1.FileName);
+                        MessageBox.Show("Archivo exportado con éxito", "Exportar", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("No hay resultados para exportar a Excel.\nPor favor, realice una búsqueda que arroje resultados.", "No hay resultados", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

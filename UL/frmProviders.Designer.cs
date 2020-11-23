@@ -38,6 +38,7 @@
             this.BtnNew = new System.Windows.Forms.Button();
             this.BtnDelete = new System.Windows.Forms.Button();
             this.BtnModify = new System.Windows.Forms.Button();
+            this.btnExcel = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.Lbl_Buscar = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -46,11 +47,13 @@
             this.dgvProvider = new System.Windows.Forms.DataGridView();
             this.clmId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Tel_Pri = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Tel_Otro = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Telephone = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Address = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Mail = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clmObservation = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clmProviderPhone1Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clmProviderPhone2Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmParishionerPhoneId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmParishionerAddressId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmParishionerMailId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clmViewDetail = new System.Windows.Forms.DataGridViewButtonColumn();
             ((System.ComponentModel.ISupportInitialize)(this.btn_cerrar)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -127,6 +130,23 @@
             this.Tip.SetToolTip(this.BtnModify, "Modificar proveedor");
             this.BtnModify.UseVisualStyleBackColor = false;
             this.BtnModify.Click += new System.EventHandler(this.BtnModify_Click);
+            // 
+            // btnExcel
+            // 
+            this.btnExcel.BackColor = System.Drawing.Color.Transparent;
+            this.btnExcel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnExcel.BackgroundImage")));
+            this.btnExcel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExcel.FlatAppearance.BorderSize = 0;
+            this.btnExcel.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
+            this.btnExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExcel.Location = new System.Drawing.Point(1065, 79);
+            this.btnExcel.Name = "btnExcel";
+            this.btnExcel.Size = new System.Drawing.Size(90, 30);
+            this.btnExcel.TabIndex = 64;
+            this.Tip.SetToolTip(this.btnExcel, "Exportar a Excel");
+            this.btnExcel.UseVisualStyleBackColor = false;
+            this.btnExcel.Click += new System.EventHandler(this.BtnExcel_Click);
             // 
             // txtBuscar
             // 
@@ -215,11 +235,13 @@
             this.dgvProvider.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.clmId,
             this.Nombre,
-            this.Tel_Pri,
-            this.Tel_Otro,
+            this.Telephone,
+            this.Address,
+            this.Mail,
             this.clmObservation,
-            this.clmProviderPhone1Id,
-            this.clmProviderPhone2Id,
+            this.clmParishionerPhoneId,
+            this.clmParishionerAddressId,
+            this.clmParishionerMailId,
             this.clmViewDetail});
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
@@ -239,7 +261,7 @@
             this.dgvProvider.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             this.dgvProvider.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvProvider.Size = new System.Drawing.Size(1149, 446);
-            this.dgvProvider.TabIndex = 63;
+            this.dgvProvider.TabIndex = 65;
             this.dgvProvider.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvProvider_CellContentClick);
             this.dgvProvider.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvProvider_CellDoubleClick);
             this.dgvProvider.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.DgvProvider_RowsAdded);
@@ -257,24 +279,31 @@
             // Nombre
             // 
             this.Nombre.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Nombre.FillWeight = 65F;
+            this.Nombre.FillWeight = 50F;
             this.Nombre.HeaderText = "Nombre / Razón social";
             this.Nombre.Name = "Nombre";
             this.Nombre.ReadOnly = true;
             // 
-            // Tel_Pri
+            // Telephone
             // 
-            this.Tel_Pri.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Tel_Pri.HeaderText = "Teléfono principal";
-            this.Tel_Pri.Name = "Tel_Pri";
-            this.Tel_Pri.ReadOnly = true;
+            this.Telephone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Telephone.HeaderText = "Teléfono";
+            this.Telephone.Name = "Telephone";
+            this.Telephone.ReadOnly = true;
             // 
-            // Tel_Otro
+            // Address
             // 
-            this.Tel_Otro.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Tel_Otro.HeaderText = "Teléfono alternativo";
-            this.Tel_Otro.Name = "Tel_Otro";
-            this.Tel_Otro.ReadOnly = true;
+            this.Address.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Address.HeaderText = "Dirección";
+            this.Address.Name = "Address";
+            this.Address.ReadOnly = true;
+            // 
+            // Mail
+            // 
+            this.Mail.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Mail.HeaderText = "Mail";
+            this.Mail.Name = "Mail";
+            this.Mail.ReadOnly = true;
             // 
             // clmObservation
             // 
@@ -284,21 +313,29 @@
             this.clmObservation.Visible = false;
             this.clmObservation.Width = 129;
             // 
-            // clmProviderPhone1Id
+            // clmParishionerPhoneId
             // 
-            this.clmProviderPhone1Id.HeaderText = "PHP1Id";
-            this.clmProviderPhone1Id.Name = "clmProviderPhone1Id";
-            this.clmProviderPhone1Id.ReadOnly = true;
-            this.clmProviderPhone1Id.Visible = false;
-            this.clmProviderPhone1Id.Width = 94;
+            this.clmParishionerPhoneId.HeaderText = "telId";
+            this.clmParishionerPhoneId.Name = "clmParishionerPhoneId";
+            this.clmParishionerPhoneId.ReadOnly = true;
+            this.clmParishionerPhoneId.Visible = false;
+            this.clmParishionerPhoneId.Width = 69;
             // 
-            // clmProviderPhone2Id
+            // clmParishionerAddressId
             // 
-            this.clmProviderPhone2Id.HeaderText = "PHP2Id";
-            this.clmProviderPhone2Id.Name = "clmProviderPhone2Id";
-            this.clmProviderPhone2Id.ReadOnly = true;
-            this.clmProviderPhone2Id.Visible = false;
-            this.clmProviderPhone2Id.Width = 94;
+            this.clmParishionerAddressId.HeaderText = "addressId";
+            this.clmParishionerAddressId.Name = "clmParishionerAddressId";
+            this.clmParishionerAddressId.ReadOnly = true;
+            this.clmParishionerAddressId.Visible = false;
+            this.clmParishionerAddressId.Width = 113;
+            // 
+            // clmParishionerMailId
+            // 
+            this.clmParishionerMailId.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.clmParishionerMailId.HeaderText = "mailid";
+            this.clmParishionerMailId.Name = "clmParishionerMailId";
+            this.clmParishionerMailId.ReadOnly = true;
+            this.clmParishionerMailId.Visible = false;
             // 
             // clmViewDetail
             // 
@@ -318,6 +355,7 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1386, 766);
             this.Controls.Add(this.dgvProvider);
+            this.Controls.Add(this.btnExcel);
             this.Controls.Add(this.Lbl_Filas);
             this.Controls.Add(this.Lbl_Buscar);
             this.Controls.Add(this.groupBox2);
@@ -348,14 +386,17 @@
         private System.Windows.Forms.Button BtnDelete;
         public System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label Lbl_Filas;
+        private System.Windows.Forms.Button btnExcel;
         public System.Windows.Forms.DataGridView dgvProvider;
         private System.Windows.Forms.DataGridViewTextBoxColumn clmId;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Tel_Pri;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Tel_Otro;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Telephone;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Address;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Mail;
         private System.Windows.Forms.DataGridViewTextBoxColumn clmObservation;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmProviderPhone1Id;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmProviderPhone2Id;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerPhoneId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerAddressId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmParishionerMailId;
         private System.Windows.Forms.DataGridViewButtonColumn clmViewDetail;
     }
 }

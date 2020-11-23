@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using LL;
+using Excel = Microsoft.Office.Interop.Excel;
+using SpreadsheetLight;
 namespace UL
 {
     public partial class frmCashMovement : Form
@@ -446,6 +448,76 @@ namespace UL
             if (chbEgress.Checked == true)
             {
                 Combo.Combo3Campos(cbCategories, "Name", "Id", "Category", " WHERE CategoryTypeId=2");
+            }
+        }
+        private void BtnExcel_Click(object sender, EventArgs e)
+        {
+            if (dgvCashMovement.Rows.Count > 0)
+            {
+
+                SLDocument sl = new SLDocument();
+                SLStyle style = new SLStyle();
+                style.Font.FontSize = 14;
+                style.Font.Bold = true;
+                sl.SetCellValue(1, 1, "Fecha");
+                sl.SetCellStyle(1, 1, style);
+                sl.SetCellValue(1, 2, "Categoría");
+                sl.SetCellStyle(1, 2, style);
+                sl.SetCellValue(1, 3, "Valor");
+                sl.SetCellStyle(1, 3, style);
+                sl.SetCellValue(1, 4, "Tipo de movimiento");
+                sl.SetCellStyle(1, 4, style);
+                sl.SetCellValue(1, 5, "Usuario");
+                sl.SetCellStyle(1, 5, style);
+
+                int iR = 2;
+                foreach(DataGridViewRow row in dgvCashMovement.Rows)
+                {
+                    sl.SetCellValue(iR, 1, row.Cells[1].Value.ToString());
+                    sl.SetCellValue(iR, 2, row.Cells[2].Value.ToString());
+                    sl.SetCellValue(iR, 3, row.Cells[3].Value.ToString());
+                    sl.SetCellValue(iR, 4, row.Cells[4].Value.ToString());
+                    sl.SetCellValue(iR, 5, row.Cells[5].Value.ToString());
+                    iR++;
+                }
+                SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+                saveFileDialog1.Title = "Guardar archivo";
+                saveFileDialog1.CheckPathExists = true;
+                saveFileDialog1.DefaultExt = "xlsx";
+                if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        sl.SaveAs(saveFileDialog1.FileName);
+                        MessageBox.Show("Archivo exportado con éxito", "Exportar",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("No hay resultados para exportar a Excel.\nPor favor, realice una búsqueda que arroje resultados.", "No hay resultados", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void releaseObject(object obj)
+        {
+            try
+            {
+                System.Runtime.InteropServices.Marshal.ReleaseComObject(obj);
+                obj = null;
+            }
+            catch (Exception ex)
+            {
+                obj = null;
+                MessageBox.Show("Exception Occurred while releasing object " + ex.ToString());
+            }
+            finally
+            {
+                GC.Collect();
             }
         }
     }

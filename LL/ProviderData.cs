@@ -11,9 +11,9 @@ namespace LL
 {
     public class ProviderData
     {
-        public int IdTel;
-        public int IdAddress;
-        public int IdMail;
+        public int? IdTel;
+        public int? IdAddress;
+        public int? IdMail;
         public string Telephone;
         public string Address;
         public string Mail;
@@ -32,7 +32,7 @@ namespace LL
                 command.CommandText = "NewProviderData";
                 command.CommandType = CommandType.StoredProcedure;
                 command.Parameters.AddWithValue("@DataType", dataType);
-                command.Parameters.AddWithValue("@ParishionerId", provId);
+                command.Parameters.AddWithValue("@ProviderId", provId);
                 command.Parameters.AddWithValue("@Data", data);
                 command.Parameters.AddWithValue("@IsPrincipal", isPrincipal);
                 command.ExecuteNonQuery();
@@ -59,7 +59,7 @@ namespace LL
 
         }
 
-        public bool UpdateProviderData(int phoneId, string number)
+        public bool UpdateProviderData(int id, string data)
         {
             var conn = new SqlConnection();
             var command = new SqlCommand();
@@ -72,8 +72,8 @@ namespace LL
                 command.Connection = conn;
                 command.CommandText = "UpdateProviderData";
                 command.CommandType = CommandType.StoredProcedure;
-                command.Parameters.AddWithValue("@Id", phoneId);
-                command.Parameters.AddWithValue("@Number", number);
+                command.Parameters.AddWithValue("@Id", id);
+                command.Parameters.AddWithValue("@Data", data);
                 command.ExecuteNonQuery();
                 answ = true;
             }

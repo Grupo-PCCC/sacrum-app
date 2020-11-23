@@ -82,7 +82,7 @@ namespace UL
                     txtTelephone.Clear();
                     txtMail.Clear();
                     txtObservation.Clear();
-                    txtObservation.Clear();
+                    txtAddress.Clear();
                     _owner.CargarGrilla();
                     _owner.dgvProvider.Rows[_owner.dgvProvider.Rows.Count - 1].Selected = true;
 
@@ -106,8 +106,8 @@ namespace UL
                     P.Observation = txtObservation.Text.ToString();
                     P.UpdateProvider(P);
                     PD.UpdateProviderData(telephoneId, txtTelephone.Text.ToString());
-                    PD.UpdateProviderData(addressId, txtTelephone.Text.ToString());
-                    PD.UpdateProviderData(mailId, txtTelephone.Text.ToString());
+                    PD.UpdateProviderData(addressId, txtAddress.Text.ToString());
+                    PD.UpdateProviderData(mailId, txtMail.Text.ToString());
                     L.Action = "El usuario " + Users.CacheUser.Nick + " modificó el proveedor " + txtName.Text + " " + " (" + provId.ToString() + ").";
                     L.ActionDate = DateTime.Now;
                     L._users.Id = Users.CacheUser.Id;

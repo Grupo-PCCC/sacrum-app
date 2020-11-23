@@ -50,6 +50,7 @@
             this.Apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TipoUsuario = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Btn_Det = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.btnExcel = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.btn_cerrar)).BeginInit();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Users)).BeginInit();
@@ -289,12 +290,29 @@
             this.Btn_Det.UseColumnTextForButtonValue = true;
             this.Btn_Det.Width = 71;
             // 
+            // btnExcel
+            // 
+            this.btnExcel.BackColor = System.Drawing.Color.Transparent;
+            this.btnExcel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnExcel.BackgroundImage")));
+            this.btnExcel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExcel.FlatAppearance.BorderSize = 0;
+            this.btnExcel.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
+            this.btnExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExcel.Location = new System.Drawing.Point(1065, 79);
+            this.btnExcel.Name = "btnExcel";
+            this.btnExcel.Size = new System.Drawing.Size(90, 30);
+            this.btnExcel.TabIndex = 75;
+            this.btnExcel.UseVisualStyleBackColor = false;
+            this.btnExcel.Click += new System.EventHandler(this.BtnExcel_Click);
+            // 
             // frmUsers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1386, 766);
+            this.Controls.Add(this.btnExcel);
             this.Controls.Add(this.dgv_Users);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.Lbl_Filas);
@@ -334,5 +352,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Apellido;
         private System.Windows.Forms.DataGridViewTextBoxColumn TipoUsuario;
         private System.Windows.Forms.DataGridViewButtonColumn Btn_Det;
+        private System.Windows.Forms.Button btnExcel;
     }
 }

@@ -21,11 +21,13 @@ namespace UL
         public string titulo;
         public string action;
         public frmUsers owner;
-        public frmDataUsers(frmUsers _owner)
+        public string accion;
+        public frmDataUsers(frmUsers _owner, string _accion)
         {
             _User = new Users();
             _userType = new UserType();
             titulo = action;
+            accion = _accion;
             L = new Log();
             UserID = 0;
             InitializeComponent();
@@ -170,23 +172,23 @@ namespace UL
       
       private void Btn_NewP_Click(object sender, EventArgs e)
         {
-            
-            _User.Nick = Txt_Nick.Text.ToString();
-            if (MessageBox.Show("¿Está seguro que desea blanquear la contraseña del usuario " + _User.Nick + "?", "Contraseña", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            if (accion == "blanquear")
             {
-                _User.Password = "nuevousuario";
-                _User.NewPassUser(_User);
-                MessageBox.Show("Se ha blanqueado la contraseña exitósamente.", "Contraseña blanqueada", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                L.Action = "El usuario " + Users.CacheUser.Nick + " blanqueó la contraseña del usuario " + _User.Nick;
-                L.ActionDate = DateTime.Now;
-                L._users.Id = Users.CacheUser.Id;
-                L.WriteLog(L);
-                this.Close();
+                _User.Nick = Txt_Nick.Text.ToString();
+                if (MessageBox.Show("¿Está seguro que desea blanquear la contraseña del usuario " + _User.Nick + "?", "Contraseña", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+                {
+                    _User.Password = "nuevousuario";
+                    _User.NewPassUser(_User);
+                    MessageBox.Show("Se ha blanqueado la contraseña exitósamente.", "Contraseña blanqueada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    L.Action = "El usuario " + Users.CacheUser.Nick + " blanqueó la contraseña del usuario " + _User.Nick;
+                    L.ActionDate = DateTime.Now;
+                    L._users.Id = Users.CacheUser.Id;
+                    L.WriteLog(L);
+                    this.Close();
 
+                }
             }
-            else
-            {    
-            }
+           
         }
 
         private void Btn_CancelAdm_Click(object sender, EventArgs e)
@@ -208,6 +210,7 @@ namespace UL
 
         private void Btn_UserPass_Click_1(object sender, EventArgs e)
         {
+
             frmMenu frm = new frmMenu();
             frmLogin frmLogin = new frmLogin();
             int flag = 0;
@@ -230,23 +233,23 @@ namespace UL
                 Error.SetError(Txt_RPass, "Las contraseñas escritas no son iguales");
                 flag = 1;
             }
-            if (Txt_Pass.Text==Txt_RPass.Text && flag == 0)
+            if (accion == "misdatos")
             {
-                Error.Clear();
-                _User.Nick = Txt_Nick.Text.ToString();
-                _User.Password = Txt_Pass.Text.ToString();
-                _User.UpdatePass(_User);
-                MessageBox.Show("La contraseña ha sido modificada exitósamente.", "Contraseña modificada", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                L.Action = "El usuario " + Users.CacheUser.Nick + " modificó su contraseña";
-                L.ActionDate = DateTime.Now;
-                L._users.Id = Users.CacheUser.Id;
-                L.WriteLog(L);
-                frm.Close();
-                this.Close();
-                frmLogin.Show();
-                frm.Close();
-                frm.Hide();
+                if (Txt_Pass.Text == Txt_RPass.Text && flag == 0)
+                {
+                    Error.Clear();
+                    _User.Nick = Txt_Nick.Text.ToString();
+                    _User.Password = Txt_Pass.Text.ToString();
+                    _User.UpdatePass(_User);
+                    MessageBox.Show("La contraseña ha sido modificada exitósamente.\nDeberá volver a abir la aplicación", "Contraseña modificada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    L.Action = "El usuario " + Users.CacheUser.Nick + " modificó su contraseña";
+                    L.ActionDate = DateTime.Now;
+                    L._users.Id = Users.CacheUser.Id;
+                    L.WriteLog(L);
+                    Application.Exit();
+                }
             }
+
         }
 
         private void Btn_Refresh_Click_1(object sender, EventArgs e)

@@ -159,10 +159,31 @@ namespace LL
                     reg.Telephone = Convert.ToString(rdr["Telephone"] is DBNull ? "" : rdr["Telephone"]);
                     reg.Address = Convert.ToString(rdr["Address"] is DBNull ? "" : rdr["Address"]);
                     reg.Mail = Convert.ToString(rdr["Mail"] is DBNull ? "" : rdr["Mail"]);
-                    reg.Observation = (string)rdr["Observation"];
-                    reg._providerData.IdTel = (int)rdr["IdTel"];
-                    reg._providerData.IdAddress = (int)rdr["IdAddress"];
-                    reg._providerData.IdMail = (int)rdr["IdMail"];
+                    reg.Observation = Convert.ToString(rdr["Observation"] is DBNull ? "" : rdr["Observation"]);
+                    if (rdr["IdTel"] is DBNull)
+                    {
+                        reg._providerData.IdTel = null;
+                    }
+                    else
+                    {
+                        reg._providerData.IdTel = (int)rdr["IdTel"];
+                    }
+                    if (rdr["IdAddress"] is DBNull)
+                    {
+                        reg._providerData.IdAddress = null;
+                    }
+                    else
+                    {
+                        reg._providerData.IdAddress = (int)rdr["IdAddress"];
+                    }
+                    if (rdr["IdMail"] is DBNull)
+                    {
+                        reg._providerData.IdMail = null;
+                    }
+                    else
+                    {
+                        reg._providerData.IdMail = (int)rdr["IdMail"];
+                    }
                     Lista.Add(reg);
                 }//while
 

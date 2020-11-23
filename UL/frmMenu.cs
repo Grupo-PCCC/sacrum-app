@@ -148,7 +148,8 @@ namespace UL
             hideSubMenu();
             Btn_Datos.BackColor = Color.FromArgb(0, 187, 194);
             frmUsers fu = new frmUsers();
-            frmDataUsers frmdata = new frmDataUsers(fu);
+            frmDataUsers frmdata = new frmDataUsers(fu,"misdatos");
+            flag = 1;
             frmdata.Btn_NewP.Visible = false;
             frmdata.Txt_Nick.Enabled = false;
             frmdata.Txt_Nick.Text = Users.CacheUser.Nick;
@@ -305,15 +306,7 @@ namespace UL
 
         private void FrmMenu_Resize(object sender, EventArgs e)
         {
-            if (this.WindowState == FormWindowState.Minimized)
-            {
-                Btn_minimizar_Click_1(sender, e);
-                iconizarApp.BalloonTipIcon = ToolTipIcon.Info;
-                iconizarApp.BalloonTipText = "La aplicación Sacrum ha quedado ocultada " +
-                    "en el área de notificación. Para mostrarla haga " +
-                    "doble clic sobre el icono";
-                iconizarApp.ShowBalloonTip(5000);
-            }
+
         }
 
         private void IconizarApp_BalloonTipClicked(object sender, EventArgs e)
@@ -332,7 +325,7 @@ namespace UL
                 DialogResult answ = MessageBox.Show("¿Está seguro que desea salir de Sacrum?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (answ == DialogResult.Yes)
                 {
-                    L.Action = "El usuario " + Users.CacheUser.Name + " cerró sesión en la aplicación";
+                    L.Action = "El usuario " + Users.CacheUser.Nick + " cerró sesión en la aplicación";
                     L.ActionDate = DateTime.Now;
                     L._users.Id = Users.CacheUser.Id;
                     L.WriteLog(L);

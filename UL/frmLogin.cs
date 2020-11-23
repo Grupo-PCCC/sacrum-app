@@ -119,7 +119,7 @@ namespace UL
                         if (txt_password.Text == "nuevousuario")
                         {
                             frmUsers fu = new frmUsers();
-                            frmDataUsers frmdata = new frmDataUsers(fu); //Instancia Formulario de Bienvenida.
+                            frmDataUsers frmdata = new frmDataUsers(fu,"nuevousuario"); //Instancia Formulario de Bienvenida.
                             MessageBox.Show("Primer ingreso, cambio de contraseña obligatorio", "Solicitud de cambio de contraseña", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                             frmdata.Btn_NewP.Visible = false;

@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Excel = Microsoft.Office.Interop.Excel;
+using SpreadsheetLight;
 using LL;
 
 namespace UL
@@ -52,7 +54,7 @@ namespace UL
         {
             if (this.dgv_Users.Columns[e.ColumnIndex].Name.Equals("Btn_Det"))
             {
-                frmDataUsers frmdata = new frmDataUsers(this);
+                frmDataUsers frmdata = new frmDataUsers(this,"blanquear");
                 DataGridViewRow dgv = dgv_Users.Rows[e.RowIndex];
                 frmdata.Txt_Nick.Text = dgv.Cells["Nick"].Value.ToString();
                 frmdata.Txt_Name.Text = dgv.Cells["Nombre"].Value.ToString();
@@ -105,7 +107,7 @@ namespace UL
 
         private void BtnNew_Click(object sender, EventArgs e)
         {
-            frmDataUsers frmdata = new frmDataUsers(this);
+            frmDataUsers frmdata = new frmDataUsers(this, "");
             frmdata.Btn_NewP.Visible = false;
             frmdata.Btn_CancelFirst.Visible = false;
             frmdata.Btn_CancelUser.Visible = false;
@@ -119,8 +121,8 @@ namespace UL
 
         private void BtnModify_Click(object sender, EventArgs e)
         {
-            
-                frmDataUsers frmdata = new frmDataUsers(this);
+                
+                frmDataUsers frmdata = new frmDataUsers(this,"blanquear");
                 if(dgv_Users.SelectedRows.Count >0)
                 {
                     frmdata.Txt_Nick.Text = dgv_Users.CurrentRow.Cells["Nick"].Value.ToString();
@@ -151,7 +153,7 @@ namespace UL
         private void BtnDelete_Click(object sender, EventArgs e)
         {
 
-            frmDataUsers frmdata = new frmDataUsers(this);
+            frmDataUsers frmdata = new frmDataUsers(this,"");
             selectedUser = Convert.ToInt32(dgv_Users.CurrentRow.Index.ToString());
             DataGridViewRow row = dgv_Users.Rows[selectedUser];
             int parishId = Convert.ToInt32(row.Cells[0].Value);
@@ -186,7 +188,7 @@ namespace UL
 
         private void Dgv_Users_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            frmDataUsers frmdata = new frmDataUsers(this);
+            frmDataUsers frmdata = new frmDataUsers(this,"blanquear");
             frmdata.Txt_Nick.Text = dgv_Users.CurrentRow.Cells["Nick"].Value.ToString();
             frmdata.Txt_Name.Text = dgv_Users.CurrentRow.Cells["Nombre"].Value.ToString();
             frmdata.Txt_Surname.Text = dgv_Users.CurrentRow.Cells["Apellido"].Value.ToString();
@@ -211,6 +213,56 @@ namespace UL
         private void Dgv_Users_RowsAdded(object sender, DataGridViewRowsAddedEventArgs e)
         {
             BtnModify.Enabled = true;
+        }
+
+        private void BtnExcel_Click(object sender, EventArgs e)
+        {
+            if (dgv_Users.Rows.Count > 0)
+            {
+
+                SLDocument sl = new SLDocument();
+                SLStyle style = new SLStyle();
+                style.Font.FontSize = 14;
+                style.Font.Bold = true;
+                sl.SetCellValue(1, 1, "Nick");
+                sl.SetCellStyle(1, 1, style);
+                sl.SetCellValue(1, 2, "Nombre");
+                sl.SetCellStyle(1, 2, style);
+                sl.SetCellValue(1, 3, "Apellido");
+                sl.SetCellStyle(1, 3, style);
+                sl.SetCellValue(1, 4, "Tipo de usuario");
+                sl.SetCellStyle(1, 4, style);
+
+                int iR = 2;
+                foreach (DataGridViewRow row in dgv_Users.Rows)
+                {
+                    sl.SetCellValue(iR, 1, row.Cells[1].Value.ToString());
+                    sl.SetCellValue(iR, 2, row.Cells[2].Value.ToString());
+                    sl.SetCellValue(iR, 3, row.Cells[3].Value.ToString());
+                    sl.SetCellValue(iR, 4, row.Cells[4].Value.ToString());
+                    iR++;
+                }
+                SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+                saveFileDialog1.Title = "Guardar archivo";
+                saveFileDialog1.CheckPathExists = true;
+                saveFileDialog1.DefaultExt = "xlsx";
+                if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        sl.SaveAs(saveFileDialog1.FileName);
+                        MessageBox.Show("Archivo exportado con éxito", "Exportar", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("No hay resultados para exportar a Excel.\nPor favor, realice una búsqueda que arroje resultados.", "No hay resultados", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }
