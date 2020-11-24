@@ -119,7 +119,6 @@ C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\obj\Debug\LL.dll
 C:\Users\gabri\source\repos\bkp-sacrum\Sacrum\LL\obj\Debug\LL.pdb
 C:\Users\gabri\source\repos\sacrum-app\LL\bin\Debug\LL.dll
 C:\Users\gabri\source\repos\sacrum-app\LL\bin\Debug\LL.pdb
-C:\Users\gabri\source\repos\sacrum-app\LL\obj\Debug\LL.csprojAssemblyReference.cache
 C:\Users\gabri\source\repos\sacrum-app\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
 C:\Users\gabri\source\repos\sacrum-app\LL\obj\Debug\LL.dll
 C:\Users\gabri\source\repos\sacrum-app\LL\obj\Debug\LL.pdb

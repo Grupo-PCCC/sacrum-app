@@ -9,3 +9,8 @@ C:\Users\gabri\source\repos\Sacrum\LL\bin\Release\LL.pdb
 C:\Users\gabri\source\repos\Sacrum\LL\obj\Release\LL.csproj.CoreCompileInputs.cache
 C:\Users\gabri\source\repos\Sacrum\LL\obj\Release\LL.dll
 C:\Users\gabri\source\repos\Sacrum\LL\obj\Release\LL.pdb
+C:\Users\gabri\source\repos\sacrum-app\LL\bin\Release\LL.dll
+C:\Users\gabri\source\repos\sacrum-app\LL\bin\Release\LL.pdb
+C:\Users\gabri\source\repos\sacrum-app\LL\obj\Release\LL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\sacrum-app\LL\obj\Release\LL.dll
+C:\Users\gabri\source\repos\sacrum-app\LL\obj\Release\LL.pdb

@@ -100,3 +100,44 @@ C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_ori
 C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Release\UL.csproj.CopyComplete
 C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Release\Sacrum.exe
 C:\Users\dcavagni\Desktop\Facultad\Proyecto La Paz - Parroquia\Sacrum\Sacrum_origi\UL\obj\Release\Sacrum.pdb
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\Sacrum.exe.config
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\Sacrum.exe
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\Sacrum.pdb
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\es\Sacrum.resources.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\LL.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\SpreadsheetLight.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\System.Drawing.Common.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\System.IO.Packaging.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\LL.pdb
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\DevComponents.DotNetBar2.xml
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\SpreadsheetLight.xml
+C:\Users\gabri\source\repos\sacrum-app\UL\bin\Release\System.IO.Packaging.xml
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmActivities.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmDataProvider.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmDataUsers.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmLog.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmMenu.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmCategory.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmModifyActivity.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmNewActivity.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmNewCashMovement.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmDataParishioners.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmParishioners.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmLogin.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmCashMovement.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmNewCategory.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmProviders.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmSelectedCashMovement.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmUsers.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.Properties.Resources.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.frmMenu.es.resources
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\es\Sacrum.resources.dll
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\UL.csproj.CopyComplete
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\Sacrum.exe
+C:\Users\gabri\source\repos\sacrum-app\UL\obj\Release\Sacrum.pdb
