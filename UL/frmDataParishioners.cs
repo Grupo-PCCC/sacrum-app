@@ -107,12 +107,13 @@ namespace UL
                     else
                     {
                         Error.SetError(txtSurname, "Debe ingresar un apellido");
+                        flag = 1;
                     }
                 }
                 else
                 {
                     Error.SetError(txtName, "Debe ingresar un Nombre");
-
+                    flag = 1;
                 }
 
             }
@@ -132,7 +133,7 @@ namespace UL
                 }
 
                 }
-                if (flag==0)
+                if (flag==0 && Action == "ModifyParish")
                 {
                     documento = txtDocumento.Text.Trim().ToString();
                     if (oldDocument == documento)
