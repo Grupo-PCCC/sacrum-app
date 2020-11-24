@@ -348,3 +348,14 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.vs/Sacrum/v16/.suo
+.vs/Sacrum/v16/Server/sqlite3/storage.ide
+LL/obj/Debug/LL.csproj.CoreCompileInputs.cache
+UL/bin/Debug/Sacrum.exe
+UL/bin/Debug/Sacrum.pdb
+UL/bin/Debug/es/Sacrum.resources.dll
+UL/obj/Debug/Sacrum.exe
+UL/obj/Debug/Sacrum.pdb
+UL/obj/Debug/*.cache*
+UL/obj/Debug/es/*.dll*
