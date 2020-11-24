@@ -140,7 +140,7 @@ namespace UL
                 categoryName = txtName.Text.ToString();
                 if (oldCategory == categoryName)
                 {
-                    MessageBox.Show("No ha modificado el nombre de la categoría, por favor intente nuevamente", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    this.Close();
                     flag = 1;
                 }
                 if (flag == 0)

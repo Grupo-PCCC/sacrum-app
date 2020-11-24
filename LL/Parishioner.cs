@@ -400,7 +400,53 @@ namespace LL
             return answ;
 
         }
+        public bool FindParishioner(string documento)
+        {
+            var conn = new SqlConnection();
+            var command = new SqlCommand();
+            var dataBase = new DBConnect();
+            bool answ;
+
+            try
+            {
+                conn = dataBase.Open();
+                command.Connection = conn;
+                command.CommandText = "FindParishioner";
+                command.CommandType = CommandType.StoredProcedure;
+                command.Parameters.AddWithValue("@Documento", documento);
+                SqlDataReader reader = command.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+            }
+            catch (Exception e)
+            {
+
+                MessageBox.Show(e.ToString());
+                answ = false;
+            }
+            finally
+            {
+                if (conn.State == System.Data.ConnectionState.Open)
+                {
+                    conn.Close();
+                    conn.Dispose();
+
+                }
+
+            }
+            return answ;
+
+        }
     }//Class
+
+
 
 
 }

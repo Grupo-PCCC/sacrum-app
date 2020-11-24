@@ -291,9 +291,9 @@
             this.lblDocumento.ForeColor = System.Drawing.Color.Black;
             this.lblDocumento.Location = new System.Drawing.Point(12, 99);
             this.lblDocumento.Name = "lblDocumento";
-            this.lblDocumento.Size = new System.Drawing.Size(96, 16);
+            this.lblDocumento.Size = new System.Drawing.Size(86, 16);
             this.lblDocumento.TabIndex = 27;
-            this.lblDocumento.Text = "Documento *";
+            this.lblDocumento.Text = "Documento";
             // 
             // chbDateTime
             // 
