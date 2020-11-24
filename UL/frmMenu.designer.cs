@@ -33,6 +33,7 @@
             this.panelContenedor = new System.Windows.Forms.Panel();
             this.panelformularios = new System.Windows.Forms.Panel();
             this.PnlButtons = new System.Windows.Forms.Panel();
+            this.Btn_Proveedor = new System.Windows.Forms.Button();
             this.Btn_LogOff = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnlUserAndLogout = new System.Windows.Forms.Panel();
@@ -48,17 +49,12 @@
             this.Btn_Activities = new System.Windows.Forms.Button();
             this.Btn_Parish = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.iconizarApp = new System.Windows.Forms.NotifyIcon(this.components);
-            this.mnuContextual = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.mnuMostrarAplicacion = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnuCerrarAplicacion = new System.Windows.Forms.ToolStripMenuItem();
             this.panelContenedor.SuspendLayout();
             this.PnlButtons.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.pnlUserAndLogout.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Pic_User)).BeginInit();
             this.PnlSubMenuSys.SuspendLayout();
-            this.mnuContextual.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelContenedor
@@ -72,13 +68,14 @@
             // panelformularios
             // 
             this.panelformularios.BackColor = System.Drawing.Color.LightGray;
-            this.panelformularios.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panelformularios.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.panelformularios, "panelformularios");
             this.panelformularios.Name = "panelformularios";
             // 
             // PnlButtons
             // 
             this.PnlButtons.BackColor = System.Drawing.Color.White;
+            this.PnlButtons.Controls.Add(this.Btn_Proveedor);
             this.PnlButtons.Controls.Add(this.Btn_LogOff);
             this.PnlButtons.Controls.Add(this.pictureBox1);
             this.PnlButtons.Controls.Add(this.pnlUserAndLogout);
@@ -91,6 +88,19 @@
             this.PnlButtons.Controls.Add(this.Btn_Parish);
             resources.ApplyResources(this.PnlButtons, "PnlButtons");
             this.PnlButtons.Name = "PnlButtons";
+            // 
+            // Btn_Proveedor
+            // 
+            this.Btn_Proveedor.BackColor = System.Drawing.Color.Transparent;
+            this.Btn_Proveedor.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Btn_Proveedor.FlatAppearance.BorderSize = 0;
+            this.Btn_Proveedor.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
+            resources.ApplyResources(this.Btn_Proveedor, "Btn_Proveedor");
+            this.Btn_Proveedor.ForeColor = System.Drawing.Color.Black;
+            this.Btn_Proveedor.Name = "Btn_Proveedor";
+            this.toolTip1.SetToolTip(this.Btn_Proveedor, resources.GetString("Btn_Proveedor.ToolTip"));
+            this.Btn_Proveedor.UseVisualStyleBackColor = false;
+            this.Btn_Proveedor.Click += new System.EventHandler(this.Btn_Proveedor_Click);
             // 
             // Btn_LogOff
             // 
@@ -196,9 +206,9 @@
             // 
             this.Btn_Prov.BackColor = System.Drawing.Color.Transparent;
             this.Btn_Prov.Cursor = System.Windows.Forms.Cursors.Hand;
+            resources.ApplyResources(this.Btn_Prov, "Btn_Prov");
             this.Btn_Prov.FlatAppearance.BorderSize = 0;
             this.Btn_Prov.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            resources.ApplyResources(this.Btn_Prov, "Btn_Prov");
             this.Btn_Prov.ForeColor = System.Drawing.Color.Black;
             this.Btn_Prov.Name = "Btn_Prov";
             this.toolTip1.SetToolTip(this.Btn_Prov, resources.GetString("Btn_Prov.ToolTip"));
@@ -244,34 +254,6 @@
             this.Btn_Parish.UseVisualStyleBackColor = false;
             this.Btn_Parish.Click += new System.EventHandler(this.Btn_Parish_Click);
             // 
-            // iconizarApp
-            // 
-            resources.ApplyResources(this.iconizarApp, "iconizarApp");
-            this.iconizarApp.ContextMenuStrip = this.mnuContextual;
-            this.iconizarApp.BalloonTipClicked += new System.EventHandler(this.IconizarApp_BalloonTipClicked);
-            this.iconizarApp.DoubleClick += new System.EventHandler(this.MnuMostrarAplicacion_Click_1);
-            // 
-            // mnuContextual
-            // 
-            this.mnuContextual.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnuMostrarAplicacion,
-            this.mnuCerrarAplicacion});
-            this.mnuContextual.Name = "mnuContextual";
-            resources.ApplyResources(this.mnuContextual, "mnuContextual");
-            this.mnuContextual.Opening += new System.ComponentModel.CancelEventHandler(this.MnuContextual_Opening);
-            // 
-            // mnuMostrarAplicacion
-            // 
-            this.mnuMostrarAplicacion.Name = "mnuMostrarAplicacion";
-            resources.ApplyResources(this.mnuMostrarAplicacion, "mnuMostrarAplicacion");
-            this.mnuMostrarAplicacion.Click += new System.EventHandler(this.MnuMostrarAplicacion_Click_1);
-            // 
-            // mnuCerrarAplicacion
-            // 
-            this.mnuCerrarAplicacion.Name = "mnuCerrarAplicacion";
-            resources.ApplyResources(this.mnuCerrarAplicacion, "mnuCerrarAplicacion");
-            this.mnuCerrarAplicacion.Click += new System.EventHandler(this.MnuCerrarAplicacion_Click);
-            // 
             // frmMenu
             // 
             resources.ApplyResources(this, "$this");
@@ -281,11 +263,9 @@
             this.KeyPreview = true;
             this.MaximizeBox = false;
             this.Name = "frmMenu";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMenu_FormClosing);
             this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.FrmMenu_KeyUp);
-            this.Resize += new System.EventHandler(this.FrmMenu_Resize);
             this.panelContenedor.ResumeLayout(false);
             this.PnlButtons.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -293,7 +273,6 @@
             this.pnlUserAndLogout.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Pic_User)).EndInit();
             this.PnlSubMenuSys.ResumeLayout(false);
-            this.mnuContextual.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -318,10 +297,7 @@
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.PictureBox pictureBox1;
         public System.Windows.Forms.Button Btn_LogOff;
-        private System.Windows.Forms.ContextMenuStrip mnuContextual;
-        private System.Windows.Forms.ToolStripMenuItem mnuMostrarAplicacion;
-        private System.Windows.Forms.ToolStripMenuItem mnuCerrarAplicacion;
-        public System.Windows.Forms.NotifyIcon iconizarApp;
+        public System.Windows.Forms.Button Btn_Proveedor;
     }
 }
 

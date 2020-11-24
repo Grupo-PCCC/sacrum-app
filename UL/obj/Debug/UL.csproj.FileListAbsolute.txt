@@ -597,3 +597,42 @@ C:\Users\gabri\source\repos\sacrum-app\UL\bin\Debug\System.IO.Packaging.dll
 C:\Users\gabri\source\repos\sacrum-app\UL\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\gabri\source\repos\sacrum-app\UL\bin\Debug\SpreadsheetLight.xml
 C:\Users\gabri\source\repos\sacrum-app\UL\bin\Debug\System.IO.Packaging.xml
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\Sacrum.exe.config
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\Sacrum.exe
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\Sacrum.pdb
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\es\Sacrum.resources.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\LL.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\SpreadsheetLight.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\System.Drawing.Common.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\System.IO.Packaging.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\LL.pdb
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\SpreadsheetLight.xml
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\bin\Debug\System.IO.Packaging.xml
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.csprojAssemblyReference.cache
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmActivities.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmDataProvider.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmDataUsers.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmLog.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmMenu.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmCategory.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmModifyActivity.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmNewActivity.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmNewCashMovement.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmDataParishioners.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmParishioners.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmLogin.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmCashMovement.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmNewCategory.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmProviders.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmSelectedCashMovement.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmUsers.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.Properties.Resources.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.frmMenu.es.resources
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.csproj.GenerateResource.cache
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\es\Sacrum.resources.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\UL.csproj.CopyComplete
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\Sacrum.exe
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\UL\obj\Debug\Sacrum.pdb

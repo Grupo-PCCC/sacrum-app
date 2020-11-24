@@ -78,7 +78,7 @@ namespace UL
         {
 
            
-            iconizarApp.Visible = true;
+            
             this.Visible = false;
             
         }
@@ -137,7 +137,8 @@ namespace UL
             if (Application.OpenForms["frmActivities"] == null)
                 Btn_Activities.BackColor = Color.Transparent;
             if (Application.OpenForms["frmProviders"] == null)
-                Btn_Prov.BackColor = Color.Transparent;
+                //Btn_Prov.BackColor = Color.Transparent;
+                Btn_Proveedor.BackColor = Color.Transparent;
 
 
 
@@ -242,7 +243,7 @@ namespace UL
             hideSubMenu();
             
             AbrirFormulario<frmProviders>();
-            Btn_Prov.BackColor = Color.FromArgb(0, 187, 194);
+            Btn_Proveedor.BackColor = Color.FromArgb(0, 187, 194);
         }
 
    
@@ -287,7 +288,7 @@ namespace UL
             if ((e.KeyCode == Keys.P) & e.Control)
 
             {
-                Btn_Prov.PerformClick();
+                Btn_Proveedor.PerformClick();
             }
         }
 
@@ -299,15 +300,12 @@ namespace UL
             Show();
             WindowState = FormWindowState.Normal;
             Activate();
-            iconizarApp.Visible = false;
+            
         }
 
        
 
-        private void FrmMenu_Resize(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void IconizarApp_BalloonTipClicked(object sender, EventArgs e)
         {
@@ -369,6 +367,14 @@ namespace UL
         private void MnuContextual_Opening(object sender, CancelEventArgs e)
         {
 
+        }
+
+        private void Btn_Proveedor_Click(object sender, EventArgs e)
+        {
+            hideSubMenu();
+
+            AbrirFormulario<frmProviders>();
+            Btn_Proveedor.BackColor = Color.FromArgb(0, 187, 194);
         }
     }
 }

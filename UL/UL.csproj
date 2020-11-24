@@ -262,9 +262,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ortodoxo.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\WhatsApp Image 2019-09-06 at 9.35.42 PM.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -332,6 +329,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SacrumLogo - copia.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
