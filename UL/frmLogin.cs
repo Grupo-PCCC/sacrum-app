@@ -168,6 +168,7 @@ namespace UL
                         else
                         {
                             frmMenu frmMenu = new frmMenu(); //Instancia Formulario de Bienvenida.
+                            frmMenu.WindowState = FormWindowState.Maximized;
                             frmMenu.Show();
                             this.Dispose();
                             this.Close();

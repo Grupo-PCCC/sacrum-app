@@ -183,7 +183,7 @@
             this.txtTelephone.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtTelephone.ForeColor = System.Drawing.Color.Black;
             this.txtTelephone.Location = new System.Drawing.Point(17, 72);
-            this.txtTelephone.MaxLength = 30;
+            this.txtTelephone.MaxLength = 50;
             this.txtTelephone.Name = "txtTelephone";
             this.txtTelephone.ShortcutsEnabled = false;
             this.txtTelephone.Size = new System.Drawing.Size(253, 22);

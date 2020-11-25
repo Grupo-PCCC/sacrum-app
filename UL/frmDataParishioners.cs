@@ -76,9 +76,38 @@ namespace UL
                                 txtDocumento.Focus();
                                 return;
                             }
+                            else
+                            {
+                                flag = 0;
+                                P.Documento = txtDocumento.Text.ToString();
+                                P.Observation = txtObservation.Text.ToString();
+                                P.NewParishioner(P);
+                                int lastParish = P.GetLastId();
+                                PD.NewParishionerData("tel", lastParish, txtTelephone.Text.ToString(), 1);
+                                PD.NewParishionerData("address", lastParish, txtAddress.Text.ToString(), 1);
+                                PD.NewParishionerData("mail", lastParish, txtMail.Text.ToString(), 1);
+                                L.Action = "El usuario " + Users.CacheUser.Nick + " registró el feligrés " + txtName.Text + " " + txtSurname.Text + " (" + lastParish.ToString() + ").";
+                                L.ActionDate = DateTime.Now;
+                                L._users.Id = Users.CacheUser.Id;
+                                L.WriteLog(L);
+                                MessageBox.Show("Se han ingresado los datos del feligrés correctamente", "Registro de feligrés", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                txtName.Clear();
+                                txtSurname.Clear();
+                                txtDocumento.Clear();
+                                dtBornDate.Value = DateTime.Now;
+                                Error.Clear();
+                                txtTelephone.Clear();
+                                txtAddress.Clear();
+                                txtMail.Clear();
+                                txtObservation.Clear();
+                                _owner.CargarGrilla();
+                                _owner2.CargarGrilla();
+                                _owner.dgv_Parish.Rows[_owner.dgv_Parish.Rows.Count - 1].Selected = true;
+                            }
                         }
                         else
                         {
+                            flag = 0;
                             P.Documento = txtDocumento.Text.ToString();
                             P.Observation = txtObservation.Text.ToString();
                             P.NewParishioner(P);
@@ -97,12 +126,14 @@ namespace UL
                             dtBornDate.Value = DateTime.Now;
                             Error.Clear();
                             txtTelephone.Clear();
+                            txtAddress.Clear();
                             txtMail.Clear();
                             txtObservation.Clear();
                             _owner.CargarGrilla();
                             _owner2.CargarGrilla();
                             _owner.dgv_Parish.Rows[_owner.dgv_Parish.Rows.Count - 1].Selected = true;
                         }
+                        
                     }
                     else
                     {

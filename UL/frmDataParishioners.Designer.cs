@@ -88,7 +88,7 @@
             this.txtMail.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtMail.ForeColor = System.Drawing.Color.Black;
             this.txtMail.Location = new System.Drawing.Point(15, 294);
-            this.txtMail.MaxLength = 15;
+            this.txtMail.MaxLength = 50;
             this.txtMail.Name = "txtMail";
             this.txtMail.ShortcutsEnabled = false;
             this.txtMail.Size = new System.Drawing.Size(253, 22);
@@ -103,7 +103,7 @@
             this.txtTelephone.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtTelephone.ForeColor = System.Drawing.Color.Black;
             this.txtTelephone.Location = new System.Drawing.Point(15, 206);
-            this.txtTelephone.MaxLength = 15;
+            this.txtTelephone.MaxLength = 50;
             this.txtTelephone.Name = "txtTelephone";
             this.txtTelephone.ShortcutsEnabled = false;
             this.txtTelephone.Size = new System.Drawing.Size(253, 22);
@@ -243,7 +243,7 @@
             this.txtAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtAddress.ForeColor = System.Drawing.Color.Black;
             this.txtAddress.Location = new System.Drawing.Point(16, 250);
-            this.txtAddress.MaxLength = 15;
+            this.txtAddress.MaxLength = 50;
             this.txtAddress.Name = "txtAddress";
             this.txtAddress.ShortcutsEnabled = false;
             this.txtAddress.Size = new System.Drawing.Size(253, 22);
@@ -277,7 +277,7 @@
             this.txtDocumento.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtDocumento.ForeColor = System.Drawing.Color.Black;
             this.txtDocumento.Location = new System.Drawing.Point(15, 118);
-            this.txtDocumento.MaxLength = 36;
+            this.txtDocumento.MaxLength = 30;
             this.txtDocumento.Name = "txtDocumento";
             this.txtDocumento.ShortcutsEnabled = false;
             this.txtDocumento.Size = new System.Drawing.Size(254, 22);
