@@ -57,6 +57,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_9D0ED183C218429BB5D2A46D7874C51A"
+        "OwnerKey" = "8:_C473DB4913BA41E99244FD42C64A3E0B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A5F5318968FF42A2D59BC6F45F4C193D"
         "OwnerKey" = "8:_C473DB4913BA41E99244FD42C64A3E0B"
         "MsmSig" = "8:_UNDEFINED"
@@ -123,18 +129,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_F6BFFD87BE587472877A5199920CC8A7"
-        "OwnerKey" = "8:_C473DB4913BA41E99244FD42C64A3E0B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A5F5318968FF42A2D59BC6F45F4C193D"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_C473DB4913BA41E99244FD42C64A3E0B"
         "MsmSig" = "8:_UNDEFINED"
@@ -160,7 +154,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F6BFFD87BE587472877A5199920CC8A7"
+        "OwnerKey" = "8:_9D0ED183C218429BB5D2A46D7874C51A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -203,6 +197,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_43A794BDADCA2824B665B7DD09873ED9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A5F5318968FF42A2D59BC6F45F4C193D"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -427,6 +427,37 @@
                     }
                 }
             "SourcePath" = "8:netstandard.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_637584D05D964ABA8737126EEDD19248"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9D0ED183C218429BB5D2A46D7874C51A"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:LL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9D0ED183C218429BB5D2A46D7874C51A"
+                    {
+                    "Name" = "8:LL.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:LL.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_637584D05D964ABA8737126EEDD19248"
@@ -692,37 +723,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F6BFFD87BE587472877A5199920CC8A7"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:LL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_F6BFFD87BE587472877A5199920CC8A7"
-                    {
-                    "Name" = "8:LL.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:LL.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_637584D05D964ABA8737126EEDD19248"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
         }
         "FileType"
         {
@@ -742,7 +742,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_637584D05D964ABA8737126EEDD19248"
             {
-            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:TRUE"
             "Condition" = "8:"
@@ -790,15 +790,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Sacrum"
-        "ProductCode" = "8:{13394498-ACEA-4506-9000-8AB0A7D7EC4E}"
-        "PackageCode" = "8:{740C2A77-3D4B-42E8-85DC-3BF26CCCA6E1}"
+        "ProductCode" = "8:{C00B2DB4-D19A-4BF3-A253-645876A7EC67}"
+        "PackageCode" = "8:{807DD1E3-D5BB-4776-8FAC-44187C4F4CD1}"
         "UpgradeCode" = "8:{2D3C712F-1B85-440C-AFB7-927992E019E9}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:0.0.0"
+        "ProductVersion" = "8:0.0.1"
         "Manufacturer" = "8:Grupo PCCC"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -812,7 +812,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:1"
+        "TargetPlatform" = "3:0"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -1340,7 +1340,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C473DB4913BA41E99244FD42C64A3E0B"
             {
-            "SourcePath" = "8:..\\UL\\obj\\Release\\Sacrum.exe"
+            "SourcePath" = "8:..\\UL\\obj\\Debug\\Sacrum.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_637584D05D964ABA8737126EEDD19248"

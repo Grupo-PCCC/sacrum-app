@@ -49,7 +49,7 @@ namespace UL
         {
             foreach (DataGridViewRow row in datagrid.Rows)
             {
-                if (Convert.ToString(datagrid.Rows[row.Index].Cells[4].Value) == "1/1/0001")
+                if (Convert.ToString(datagrid.Rows[row.Index].Cells[4].Value) == "1/1/0001" || Convert.ToString(datagrid.Rows[row.Index].Cells[4].Value) == "01/01/0001") 
 
                 {
                     datagrid.Rows[row.Index].Cells[4].Value = "";

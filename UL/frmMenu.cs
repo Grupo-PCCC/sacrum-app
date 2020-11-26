@@ -31,6 +31,11 @@ namespace UL
 
         private void FormPrincipal_Load(object sender, EventArgs e)
         {
+            Rectangle screen = Screen.PrimaryScreen.WorkingArea;
+            int w = Width >= screen.Width ? screen.Width : (screen.Width + Width) / 2;
+            int h = Height >= screen.Height ? screen.Height : (screen.Height + Height) / 2;
+            this.Location = new Point((screen.Width - w) / 2, (screen.Height - h) / 2);
+            this.Size = new Size(w, h);
             if (Users.UserTypeId.TypeId == 1)
             {
                 Btn_System.Visible = true;

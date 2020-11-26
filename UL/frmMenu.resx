@@ -129,7 +129,7 @@
     <value>2, 2, 2, 2</value>
   </data>
   <data name="panelformularios.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1160, 705</value>
+    <value>1160, 687</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="panelformularios.TabIndex" type="System.Int32, mscorlib">
@@ -1518,7 +1518,7 @@
     <value>2, 2, 2, 2</value>
   </data>
   <data name="PnlButtons.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 705</value>
+    <value>206, 687</value>
   </data>
   <data name="PnlButtons.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1545,7 +1545,7 @@
     <value>2, 2, 2, 2</value>
   </data>
   <data name="panelContenedor.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1366, 705</value>
+    <value>1366, 687</value>
   </data>
   <data name="panelContenedor.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -4764,6 +4764,9 @@
         ////////////////////////////////////////////////////////////////////////////////
         //////////////////////////////////////////////////8=
 </value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
