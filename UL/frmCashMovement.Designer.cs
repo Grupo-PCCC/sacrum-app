@@ -146,9 +146,9 @@
             this.panel3.Controls.Add(this.btnNewCategory);
             this.panel3.Controls.Add(this.cbCategories);
             this.panel3.Controls.Add(this.chbCategory);
-            this.panel3.Location = new System.Drawing.Point(579, 33);
+            this.panel3.Location = new System.Drawing.Point(544, 27);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(209, 57);
+            this.panel3.Size = new System.Drawing.Size(261, 57);
             this.panel3.TabIndex = 43;
             // 
             // btnNewCategory
@@ -161,7 +161,7 @@
             this.btnNewCategory.FlatAppearance.BorderSize = 0;
             this.btnNewCategory.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
             this.btnNewCategory.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNewCategory.Location = new System.Drawing.Point(183, 4);
+            this.btnNewCategory.Location = new System.Drawing.Point(235, 5);
             this.btnNewCategory.Name = "btnNewCategory";
             this.btnNewCategory.Size = new System.Drawing.Size(23, 23);
             this.btnNewCategory.TabIndex = 2;
@@ -179,7 +179,7 @@
             this.cbCategories.FormattingEnabled = true;
             this.cbCategories.Location = new System.Drawing.Point(3, 4);
             this.cbCategories.Name = "cbCategories";
-            this.cbCategories.Size = new System.Drawing.Size(175, 24);
+            this.cbCategories.Size = new System.Drawing.Size(226, 24);
             this.cbCategories.TabIndex = 0;
             this.cbCategories.Click += new System.EventHandler(this.CbCategories_Click);
             // 
@@ -260,7 +260,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(576, 16);
+            this.label4.Location = new System.Drawing.Point(541, 8);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(76, 16);
             this.label4.TabIndex = 35;
@@ -453,9 +453,9 @@
             this.BtnSearch.FlatAppearance.BorderSize = 0;
             this.BtnSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
             this.BtnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnSearch.Location = new System.Drawing.Point(804, 16);
+            this.BtnSearch.Location = new System.Drawing.Point(836, 8);
             this.BtnSearch.Name = "BtnSearch";
-            this.BtnSearch.Size = new System.Drawing.Size(67, 32);
+            this.BtnSearch.Size = new System.Drawing.Size(53, 32);
             this.BtnSearch.TabIndex = 0;
             this.Tip.SetToolTip(this.BtnSearch, "Buscar");
             this.BtnSearch.UseVisualStyleBackColor = false;
@@ -553,9 +553,9 @@
             this.btnExcel.FlatAppearance.BorderSize = 0;
             this.btnExcel.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
             this.btnExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExcel.Location = new System.Drawing.Point(799, 54);
+            this.btnExcel.Location = new System.Drawing.Point(836, 51);
             this.btnExcel.Name = "btnExcel";
-            this.btnExcel.Size = new System.Drawing.Size(90, 30);
+            this.btnExcel.Size = new System.Drawing.Size(53, 32);
             this.btnExcel.TabIndex = 66;
             this.btnExcel.UseVisualStyleBackColor = false;
             this.btnExcel.Click += new System.EventHandler(this.BtnExcel_Click);
