@@ -128,3 +128,9 @@ C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\
 C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\LL\obj\Debug\LL.dll
 C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\LL\obj\Debug\LL.pdb
 C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\sacrum-app\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\ESCRITORIO\sacrum-app\LL\bin\Debug\LL.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\ESCRITORIO\sacrum-app\LL\bin\Debug\LL.pdb
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\ESCRITORIO\sacrum-app\LL\obj\Debug\LL.csprojAssemblyReference.cache
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\ESCRITORIO\sacrum-app\LL\obj\Debug\LL.csproj.CoreCompileInputs.cache
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\ESCRITORIO\sacrum-app\LL\obj\Debug\LL.dll
+C:\Users\SheepyBlacky\Desktop\Facultad\Sacrum 2020 Desarrollo\sacrum escritorio\ESCRITORIO\sacrum-app\LL\obj\Debug\LL.pdb

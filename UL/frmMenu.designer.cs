@@ -44,7 +44,6 @@
             this.BtnUsers = new System.Windows.Forms.Button();
             this.Btn_System = new System.Windows.Forms.Button();
             this.Btn_Datos = new System.Windows.Forms.Button();
-            this.Btn_Prov = new System.Windows.Forms.Button();
             this.Btn_Cash = new System.Windows.Forms.Button();
             this.Btn_Activities = new System.Windows.Forms.Button();
             this.Btn_Parish = new System.Windows.Forms.Button();
@@ -82,7 +81,6 @@
             this.PnlButtons.Controls.Add(this.PnlSubMenuSys);
             this.PnlButtons.Controls.Add(this.Btn_System);
             this.PnlButtons.Controls.Add(this.Btn_Datos);
-            this.PnlButtons.Controls.Add(this.Btn_Prov);
             this.PnlButtons.Controls.Add(this.Btn_Cash);
             this.PnlButtons.Controls.Add(this.Btn_Activities);
             this.PnlButtons.Controls.Add(this.Btn_Parish);
@@ -202,19 +200,6 @@
             this.Btn_Datos.UseVisualStyleBackColor = false;
             this.Btn_Datos.Click += new System.EventHandler(this.Btn_Datos_Click);
             // 
-            // Btn_Prov
-            // 
-            this.Btn_Prov.BackColor = System.Drawing.Color.Transparent;
-            this.Btn_Prov.Cursor = System.Windows.Forms.Cursors.Hand;
-            resources.ApplyResources(this.Btn_Prov, "Btn_Prov");
-            this.Btn_Prov.FlatAppearance.BorderSize = 0;
-            this.Btn_Prov.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(209)))), ((int)(((byte)(255)))));
-            this.Btn_Prov.ForeColor = System.Drawing.Color.Black;
-            this.Btn_Prov.Name = "Btn_Prov";
-            this.toolTip1.SetToolTip(this.Btn_Prov, resources.GetString("Btn_Prov.ToolTip"));
-            this.Btn_Prov.UseVisualStyleBackColor = false;
-            this.Btn_Prov.Click += new System.EventHandler(this.Btn_Prov_Click);
-            // 
             // Btn_Cash
             // 
             this.Btn_Cash.BackColor = System.Drawing.Color.Transparent;
@@ -286,7 +271,6 @@
         public System.Windows.Forms.Button Btn_Parish;
         public System.Windows.Forms.Button Btn_Cash;
         public System.Windows.Forms.Button Btn_Activities;
-        public System.Windows.Forms.Button Btn_Prov;
         public System.Windows.Forms.Button Btn_Datos;
         public System.Windows.Forms.Button Btn_System;
         public System.Windows.Forms.Button BtnLogAudit;
