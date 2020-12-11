@@ -742,7 +742,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_637584D05D964ABA8737126EEDD19248"
             {
-            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:TRUE"
             "Condition" = "8:"
@@ -791,7 +791,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Sacrum"
         "ProductCode" = "8:{C00B2DB4-D19A-4BF3-A253-645876A7EC67}"
-        "PackageCode" = "8:{807DD1E3-D5BB-4776-8FAC-44187C4F4CD1}"
+        "PackageCode" = "8:{68D4F28F-2E66-479C-B3FD-888192BAE49F}"
         "UpgradeCode" = "8:{2D3C712F-1B85-440C-AFB7-927992E019E9}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -812,7 +812,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:0"
+        "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"

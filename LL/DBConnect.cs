@@ -27,8 +27,8 @@ namespace LL
 
         public SqlConnection Open() 
         {
-            sqlConnectionString = "Data Source=thrn.ddns.net,1600;Initial Catalog=SacrumDb;User Id=sa; Password=D13g0";
-            var conn = new SqlConnection(sqlConnectionString); 
+            sqlConnectionString = "Data Source=sacrumdb.mssql.somee.com;Initial Catalog=sacrumdb;User Id=PCCC_SQLLogin_1; Password=fxvv2un2ut";
+            var conn = new SqlConnection(sqlConnectionString);
             conn.Open();
             return conn;
         }
